@@ -28,7 +28,7 @@ navbar-links:
     - License: ""
     
   Framework Base of Knowledge:
-    - Research: ""
+    - Research: "research"
     - Documentation: ""
     - Roadmap: ""
     - Projects: "projects"
