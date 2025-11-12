@@ -20,13 +20,23 @@ author: GITACA Research Group - University of Extremadura
 ###############################################
 
 navbar-links:
-  About me: "/"
-  Education: "education"
-  Trajectory: "trajectory"
-  Projects: "projects"
-  R&D results: "randdresults"
-  Publications: "publications"
-  Blog: "/blog"
+  About:
+    - Overview: "/"
+    - Governance: "#"
+    - Trademark: "#"
+    - License: "#"
+  Framework:
+    - Research: "#"
+    - Documentation: "#"
+    - Roadmap: "#"
+    - Subprojects: "#"
+  Community:
+    - Contributions: "#"
+    - Code of conduct: "#"
+    - Community links: "#"
+  Updates: "projects"
+    - News: "/blog"
+    - News: "#"
 
 ################
 # --- Logo --- #
