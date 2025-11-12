@@ -14,7 +14,7 @@ author: CyberTOMP framework team
 
 Over the past months, we have received numerous requests from researchers and cybersecurity management practitioners worldwide to make the CyberTOMP framework more open and collaborative. Today, we are excited to announce that this vision is becoming a reality.
 
-The **CyberTOMP framework is now open to the community**, enabling the integration of features and improvements developed by experts across the globe. This step aims to foster innovation while maintaining the integrity and consistency that organizations—especially public entities—require.
+The **CyberTOMP framework is now open to the community**, enabling the integration of features and improvements developed by experts across the globe. This step aims to foster innovation while maintaining the integrity and consistency that organizations, especially public entities, require.
 
 ***
 
@@ -31,8 +31,9 @@ The **CyberTOMP framework is now open to the community**, enabling the integrati
 
 ***
 
-To achieve this balance, the original authors of the model must safeguard homogeneity while embracing community-driven contributions. In pursuit of this goal, the **GÍTACA research group at the University of Extremadura** has worked intensively over recent months to design a **governance model for the framework**. This model ensures transparency, authenticity, and collaborative growth—and it has just been launched.
+To achieve this balance, the original authors of the model must safeguard homogeneity while embracing community-driven contributions. In pursuit of this goal, the **GÍTACA research group at the University of Extremadura** has worked intensively over recent months to design a **governance model for the framework**. This model ensures transparency, authenticity, and collaborative growth, and it has just been launched.
 
 **Join us in shaping the future of cybersecurity governance. Together, we can build a stronger, standardized, and innovative ecosystem.**
+
 
 
