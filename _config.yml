@@ -281,8 +281,8 @@ timezone: "Europe/Madrid"
 markdown: kramdown
 highlighter: rouge
 #permalink: /:year-:month-:day-:title/
-permalink: /the-breakroom-:title/
-paginate: 5
+permalink: /cybertomp-framework-news-:title/
+paginate: 3
 
 kramdown:
   input: GFM
