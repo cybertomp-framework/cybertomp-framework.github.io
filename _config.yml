@@ -20,24 +20,27 @@ author: GITACA Research Group - University of Extremadura
 ###############################################
 
 navbar-links:
-  About:
+  About CyberTOMP:
     - Overview: "/"
     - History: ""
     - Governance: ""
     - Trademark: ""
     - License: ""
-  Framework:
+    
+  Framework Base of Knowledge:
     - Research: ""
     - Documentation: ""
     - Roadmap: ""
     - Subprojects: ""
+    
   Community:
     - Contributions: ""
     - Code of conduct: ""
     - Community links: ""
+    
   Updates:
     - News: "/blog"
-    - News: ""
+    - Releases: ""
 
 ################
 # --- Logo --- #
