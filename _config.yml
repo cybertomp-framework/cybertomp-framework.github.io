@@ -34,13 +34,13 @@ navbar-links:
     - Projects: "projects"
     
   Community:
-    - Contributions: ""
+    - Contributions: "contributions"
     - Code of conduct: "codeofconduct"
-    - Community links: ""
+    - Community links: "communitylinks"
     
   Updates:
     - News: "/news"
-    - Releases: ""
+    - Releases: "releases"
 
 ################
 # --- Logo --- #
