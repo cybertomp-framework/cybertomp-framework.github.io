@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Manuel Domínguez-Dorado
+title: CyberTOMP framework
 
 # Your name to show in the footer
-author: Manuel Domínguez-Dorado 
+author: GITACA Research Group - University of Extremadura 
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -34,7 +34,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/manuel-dominguez-dorado.jpg"
+avatar: "/assets/img/cybertomp-logo-sin-texto.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
