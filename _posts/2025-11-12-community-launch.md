@@ -20,10 +20,8 @@ The **CyberTOMP framework is now open to the community**, enabling the integrati
 
 1.  **Openness and collaboration**  
     Not only granting free access and use of the CyberTOMP framework, but also enabling the community to **actively contribute** with new features and improvements.
-
 2.  **Security and trust**  
-    Preventing misuse of the CyberTOMP name and ensuring that any implementation requested by an organization truly follows the official model, avoiding altered or unofficial versions that could exploit the name or formal process.
-
+    Preventing misuse of the CyberTOMP name and ensuring that any implementation requested by an organization strictly follows the official model, avoiding unofficial versions that exploit the name without adhering to the formal process established by CyberTOMP.
 3.  **Consistency and governance**  
     Guaranteeing that contributions are **research-driven and guided by formal processes**, preserving the integrity and standardization of the framework while embracing innovation.
 
@@ -32,6 +30,7 @@ The **CyberTOMP framework is now open to the community**, enabling the integrati
 To achieve this balance, the original authors of the model must safeguard homogeneity while embracing community-driven contributions. In pursuit of this goal, the **GÍTACA research group at the University of Extremadura** has worked intensively over recent months to design a **governance model for the framework**. This model ensures transparency, authenticity, and collaborative growth, and it has just been launched.
 
 **Join us in shaping the future of cybersecurity governance. Together, we can build a stronger, standardized, and innovative ecosystem.**
+
 
 
 
