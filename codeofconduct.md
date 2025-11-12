@@ -3,7 +3,7 @@ layout: page
 title: Code of conduct
 subtitle: Community standards and expected behavior
 cover-img:
-  - "/assets/img/section-cover.jpg"
+  - "/assets/img/section-cover.png"
 ---
 
 # CyberTOMP Code of Conduct
@@ -39,4 +39,5 @@ If you observe inappropriate behavior:
 
 ## 7. Attribution
 This Code of Conduct is adapted from the Contributor Covenant, version 2.1
+
 
