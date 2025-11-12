@@ -3,7 +3,7 @@ layout: page
 title: Code of conduct
 subtitle: Community standards and expected behavior
 cover-img:
-  - "/assets/img/education\_cover.jpg"
+  - "/assets/img/education-cover.jpg"
 ---
 
 # CyberTOMP Code of Conduct
@@ -37,5 +37,5 @@ If you observe inappropriate behavior:
 - Contact the administrators at [email/contact].
 - Provide details of the incident (date, context, links).
 
-## 7. License
-This document is based on the Contributor Covenant v2.1.
+## 7. Attribution
+This Code of Conduct is adapted from the Contributor Covenant, version 2.1
