@@ -36,7 +36,7 @@ navbar-links:
   Community:
     - Contributions: "contributions"
     - Code of conduct: "codeofconduct"
-    - Community links: "communitylinks"
+    - Community links: "communitylinks" 
     
   Updates:
     - News: "/news"
