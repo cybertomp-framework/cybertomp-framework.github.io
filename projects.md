@@ -3,7 +3,7 @@ layout: page
 title: Projects
 subtitle: Essential projects integrated into the CyberTOMP ecosystem
 cover-img:
-  - "/assets/img/section-cover.jpg"
+  - "/assets/img/section-cover.png"
 ---
 
 The CyberTOMP framework is composed of several specialized projects that work together to deliver a comprehensive approach to cybersecurity governance. Each subproject addresses specific areas of research and practice, ensuring that the framework remains robust, adaptable, and aligned with real-world needs.
