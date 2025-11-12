@@ -51,7 +51,7 @@ The CyberTOMP framework is composed of several specialized projects that work to
       <a href="#" class="text-decoration-none text-dark">
         <div class="card h-100 shadow-sm" onmouseover="this.classList.add('shadow-lg')" onmouseout="this.classList.remove('shadow-lg')">
           <div class="overflow-hidden">
-            <img src="/assets/img/projects/default.jpg"
+            <img src="/assets/img/projects/flecostudio-logo.png"
                  class="card-img-top"
                  alt="FLECO Studio"
                  style="transition: transform 0.3s;"
