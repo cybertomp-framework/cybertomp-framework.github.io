@@ -22,10 +22,10 @@ author: GITACA Research Group - University of Extremadura
 navbar-links:
   About CyberTOMP:
     - Overview: "/"
-    - History: ""
-    - Governance: ""
-    - Trademark: ""
-    - License: ""
+    - History: "history"
+    - Governance: "governance"
+    - Trademark: "trademark"
+    - License: "license"
     
   Framework Base of Knowledge:
     - Research: "research"
