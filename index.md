@@ -8,7 +8,7 @@ cover-img:
 
 ![CyberTOMP logo](/assets/img/cybertomp-logo.png){: .mx-auto.d-block :}
 
-## CyberTOMP Framework Project Summary
+## Description
 
 **CyberTOMP Framework** (Cybersecurity Tactical and Operational Management Process) is a comprehensive and systematic framework designed to manage **asset-focused cybersecurity** from the **tactical and operational levels** of an organization. It bridges the gap left by traditional high-level security standards, such as ISO 27001 or NIST CSF, which often lack detailed procedures for lower organizational layers. CyberTOMP provides a **methodological and procedural foundation** that complements these strategic frameworks, enabling consistent and holistic cybersecurity management across departments. The framework introduces structured processes, standardized metrics, and a unified list of expected outcomes (ULEO) to quantitatively assess cybersecurity performance. It emphasizes **strategic alignment**, **holism**, and **unity of action**, empowering organizations to dynamically adapt to evolving cyber threats while maintaining a clear focus on protecting critical business assets and ensuring continuity of operations.
 
