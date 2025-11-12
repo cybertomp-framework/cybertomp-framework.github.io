@@ -34,10 +34,11 @@ Violations of this code may result in:
 
 ## 6. Reporting
 If you observe inappropriate behavior:
-- Contact the administrators at [email/contact].
+- Contact the administrators.
 - Provide details of the incident (date, context, links).
 
 ## 7. Attribution
 This Code of Conduct is adapted from the Contributor Covenant, version 2.1
+
 
 
