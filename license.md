@@ -6,20 +6,17 @@ cover-img:
   - "/assets/img/section-cover.png"
 ---
 
-## Description
+## Content License
 
-**CyberTOMP Framework** (Cybersecurity Tactical and Operational Management Process) is a comprehensive and systematic framework designed to manage **asset-focused cybersecurity** from the **tactical and operational levels** of an organization. It bridges the gap left by traditional high-level security standards, such as ISO 27001 or NIST CSF, which often lack detailed procedures for lower organizational layers. CyberTOMP provides a **methodological and procedural foundation** that complements these strategic frameworks, enabling consistent and holistic cybersecurity management across departments. The framework introduces structured processes, standardized metrics, and a unified list of expected outcomes (ULEO) to quantitatively assess cybersecurity performance. It emphasizes **strategic alignment**, **holism**, and **unity of action**, empowering organizations to dynamically adapt to evolving cyber threats while maintaining a clear focus on protecting critical business assets and ensuring continuity of operations.
+The content of this repository, including documentation, methodological materials, and complementary resources of the **CyberTOMP®** model, is distributed under the following license:
 
-Although the **CyberTOMP framework** can be applied in private-sector environments, it is **especially designed and particularly useful for public organizations**, which often face strong **structural compartmentalization into silos**, a **high dependence on outsourced technical services**, and a **complex supply chain**. CyberTOMP addresses these challenges by incorporating **specific mechanisms** that facilitate coordination across functional areas, ensure holistic cybersecurity management, and integrate supply chain dependencies into tactical and operational decision-making. Furthermore, the project includes **software tools** that support both the **implementation and evaluation** of the framework, enabling organizations to operationalize cybersecurity processes efficiently and measure their effectiveness over time.
+> **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**  
+> [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 
-## Technical Approach
+This license allows copying, redistribution, adaptation, and building upon the material, including for commercial purposes, provided that:
+- Proper credit is given to **Manuel Domínguez-Dorado** and the **GITACA Research Group**.
+- Derivative works are licensed under the same terms.
 
-CyberTOMP is built upon the existing controls and principles defined in the most comprehensive and detailed versions of recognized **cybersecurity** standards, models, and initiatives, such as **MITRE ATT&CK®**, **CIS Critical Security Controls**, and the **NIST Cybersecurity Framework**, among others (but not on information security ones). Based on this foundation, and following a deep and systematic analysis of both the theoretical and practical cybersecurity needs of private and, especially, public entities, a methodological model has been developed, together with its corresponding processes, procedures, and tools, to enable a **holistic, bottom-up management** of organizational cybersecurity. Each stage of its development has been thoroughly researched, tested through pilot implementations and real organizational deployments, and subjected to rigorous scrutiny by the scientific community through **anonymous peer-reviewed publications**. This provides the model with proven guarantees of **real-world applicability** and **demonstrated practical effectiveness**.
-
-## Results or Impact
-
-The **CyberTOMP framework** has established the foundation for a **holistic approach to cybersecurity management** in the public sector, one that actively involves the lowest organizational levels and ensures a **unified course of action**, even in the presence of operational silos. It is a **comprehensive model** that provides high visibility across all layers of the organization, supported by **specific metrics**, and enables effective **integration of outsourced services** by incorporating the organization’s **service providers within its supply chain** to ensure proper joint cybersecurity management.
-
-As a result of these guiding principles, numerous studies and analyses have been conducted on its implementation, contributing to a **relevant body of knowledge** applicable to various facets of cybersecurity. Several **public and private entities**, many of which have also participated in the model’s development by bringing practical insights and helping define the requirements for **supporting software tools**, are currently managing their cybersecurity successfully through **CyberTOMP**.
-
-
+**Important:** This license **does not grant any rights to the registered trademark or logo of CyberTOMP®**.  
+The name **CyberTOMP®** and its associated logo are **registered trademarks owned exclusively by Manuel Domínguez-Dorado**.  
+Their use is regulated by the trademark policy set out in the [Trademark](/trademark) section.
