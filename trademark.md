@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trademark
-subtitle: Trademark Ownership and Authorized Use
+subtitle: Ownership and Authorized Use
 cover-img:
   - "/assets/img/section-cover.png"
 ---
@@ -33,7 +33,7 @@ To request permission to use the **CyberTOMP®** trademark or logo, please send 
 
 > **cybertomp@manolodominguez.com**
 
-Explicitly, **“fair use” does not include** the use of the **CyberTOMP®** trademark or logo for the purpose of leveraging the corporate image of the official model to offer products or services based on a different version of **CyberTOMP®**—whether derived from the original or not—intended to associate such products or services with the official **CyberTOMP®** model and gain advantage from that association.
+Explicitly, **“fair use” exclude** the use of the **CyberTOMP®** trademark or logo for the purpose of leveraging the corporate image of the official model to offer products or services based on a different version of **CyberTOMP®**, whether derived from the original or not, intended to associate such products or services with the official **CyberTOMP®** model and gain advantage from that association.
 
 ---
 
@@ -43,8 +43,7 @@ Any use of the **CyberTOMP®** trademark and logo must be accompanied by a clear
 
 Both the logo and the textual representation of the trademark must include the **®** symbol, identifying its registered status.
 
-The textual and visual representation of the trademark must be treated as a proper name.  
-It must always be distinguished from surrounding text using appropriate capitalization, color, or font styles, and only the following authorized forms are permitted:
+The textual and visual representation of the trademark must be treated as a proper name.  It must always be distinguished from surrounding text using appropriate capitalization, color, or font styles, and only the following authorized forms are permitted:
 
 ---
 
@@ -79,9 +78,9 @@ To avoid any legal action by the trademark holder, users are requested to comply
 
 ## Practical Summary
 
-- You may freely use, copy, and modify the **CyberTOMP® model content** under **CC BY-SA 4.0**.  
 - You may **not** use the **CyberTOMP® name or logo** except to refer to the official version or under “fair use.”  
-- Derivative methodologies must be published under a **different name or trademark**.  
+- Derivative methodologies must be published under a **different name or trademark**.
+- Derivative tools or software must be published under a **different name or trademark**.
 - Any trademark misuse or infringement should be reported to **cybertomp@manolodominguez.com**.
 
 ---
