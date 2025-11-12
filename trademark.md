@@ -6,8 +6,6 @@ cover-img:
   - "/assets/img/section-cover.png"
 ---
 
-# CyberTOMP® — License and Trademark Use
-
 ## Content License
 
 The content of this repository, including documentation, methodological materials, and complementary resources of the **CyberTOMP®** model, is distributed under the following license:
