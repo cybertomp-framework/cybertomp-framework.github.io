@@ -1,7 +1,7 @@
 ---
 layout: page
 title: License
-subtitle: A holistic perspective on cybersecurity and governance
+subtitle: CyberTOMP® Content and Software Licensing
 cover-img:
   - "/assets/img/section-cover.png"
 ---
