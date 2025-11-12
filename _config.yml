@@ -29,8 +29,8 @@ navbar-links:
     
   Framework Base of Knowledge:
     - Research: "research"
-    - Documentation: ""
-    - Roadmap: ""
+    - Documentation: "documentation"
+    - Roadmap: "roadmap"
     - Projects: "projects"
     
   Community:
