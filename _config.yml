@@ -22,21 +22,22 @@ author: GITACA Research Group - University of Extremadura
 navbar-links:
   About:
     - Overview: "/"
-    - Governance: "#"
-    - Trademark: "#"
-    - License: "#"
+    - History: ""
+    - Governance: ""
+    - Trademark: ""
+    - License: ""
   Framework:
-    - Research: "#"
-    - Documentation: "#"
-    - Roadmap: "#"
-    - Subprojects: "#"
+    - Research: ""
+    - Documentation: ""
+    - Roadmap: ""
+    - Subprojects: ""
   Community:
-    - Contributions: "#"
-    - Code of conduct: "#"
-    - Community links: "#"
-  Updates: "projects"
+    - Contributions: ""
+    - Code of conduct: ""
+    - Community links: ""
+  Updates:
     - News: "/blog"
-    - News: "#"
+    - News: ""
 
 ################
 # --- Logo --- #
