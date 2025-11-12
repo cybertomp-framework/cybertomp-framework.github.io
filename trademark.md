@@ -67,14 +67,15 @@ It must always be distinguished from surrounding text using appropriate capitali
 
 ### Authorized Textual Representations of the CyberTOMP® Trademark
 
-- <span style="font-weight:bold;">CyberTOMP®</span>, in a single color of any typeface and size.  
-- <span style="font-weight:bold;font-style:italic;">CyberTOMP®</span>, in a single color of any typeface and size.  
-- <span style="font-variant:small-caps;font-weight:bold;">Cyber</span><span style="font-weight:bold;">TOMP®</span>, in a single color of any typeface and size.  
-- <span style="font-variant:small-caps;font-weight:bold;font-style:italic;">Cyber</span><span style="font-weight:bold;font-style:italic;">TOMP®</span>, in a single color of any typeface and size.  
-- <span style="font-weight:bold;">CYBERTOMP®</span>, in a single color of any typeface and size.  
-- <span style="font-weight:bold;font-style:italic;">CYBERTOMP®</span>, in a single color of any typeface and size.  
-- <span style="color:#0E517F;font-weight:bold;">CYBERTOMP</span><span style="color:#565656;font-weight:bold;">®</span>, using exactly the color combination (#0E517F and #565656) in any typeface and size.  
-- <span style="color:#0E517F;font-weight:bold;font-style:italic;">CYBERTOMP</span><span style="color:#565656;font-weight:bold;font-style:italic;">®</span>, using exactly the color combination (#0E517F and #565656) in any typeface and size.  
+- CyberTOMP®, in a single color, any color, and any font or size.  
+- **CyberTOMP®**, in a single color, any color, and any font or size.  
+- <span style="font-variant: small-caps;">Cyber</span>TOMP®, in a single color, any color, and any font or size.  
+- **<span style="font-variant: small-caps;">Cyber</span>TOMP®**, in a single color, any color, and any font or size.  
+- CYBER**TOMP®**, in a single color, any color, and any font or size.  
+- **CYBER**TOMP®, in a single color, any color, and any font or size.  
+- <span style="color:#0E517F;">CYBER</span><span style="color:#565656;">TOMP®</span>, using exactly the color combination (#0E517F and #565656) and any font or size.  
+- **<span style="color:#0E517F;">CYBER</span><span style="color:#565656;">TOMP®</span>**, using exactly the color combination (#0E517F and #565656) and any font or size.  
+
 
 ---
 
