@@ -78,7 +78,7 @@ To avoid any legal action by the trademark holder, users are requested to comply
 
 ## Practical Summary
 
-- You may **not** use the **CyberTOMP® name or logo** except to refer to the official version or under “fair use.”  
+- You may **not** use the **CyberTOMP® name or logo** except to refer to the official version or under “fair use”, unless you have explicit, written authorization.
 - Derivative methodologies must be published under a **different name or trademark**.
 - Derivative tools or software must be published under a **different name or trademark**.
 - Any trademark misuse or infringement should be reported to **cybertomp@manolodominguez.com**.
