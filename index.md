@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Overview
-subtitle: A framework for holistic cybersecurity management at tactical and operational levels
+subtitle: A holistic perspective on cybersecurity and governance
 cover-img:
   - "/assets/img/section-cover.png"
 ---
