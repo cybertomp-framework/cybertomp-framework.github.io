@@ -1,19 +1,33 @@
 ---
 layout: page
-title: About me
-subtitle: “Don’t ask yourself what the world needs. Ask yourself what makes you come alive, and go do that.” - Howard Thurman
+title: Overview
+subtitle: A framework for holistic cybersecurity management at tactical and operational levels
 cover-img:
-  - "/assets/img/about_cover.jpg"
+  - "/assets/img/section-cover.png"
 ---
 
-Welcome to my space. I'm *Manuel Domínguez-Dorado* — engineer, computer scientist, and researcher.
+![CyberTOMP logo](/assets/img/cybertomp-logo.png){: .mx-auto.d-block :}
 
-For me, engineering is more than a discipline; it's a powerful tool to solve many challenges our society faces. My passion for computer science goes beyond the technical, it extends into the most formal and professional aspects of the field: *Computer Engineering*.
+## CyberTOMP Framework Project Summary
 
-As a researcher, my focus is clear: I apply knowledge to create practical solutions that directly impact today’s technological reality. While I deeply admire pure science, I firmly believe that *applied research* provides the most pragmatic and valuable answers to many of the challenges we face.
+**CyberTOMP Framework** (Cybersecurity Tactical and Operational Management Process) is a comprehensive and systematic framework designed to manage **asset-focused cybersecurity** from the **tactical and operational levels** of an organization. It bridges the gap left by traditional high-level security standards, such as ISO 27001 or NIST CSF, which often lack detailed procedures for lower organizational layers. CyberTOMP provides a **methodological and procedural foundation** that complements these strategic frameworks, enabling consistent and holistic cybersecurity management across departments. The framework introduces structured processes, standardized metrics, and a unified list of expected outcomes (ULEO) to quantitatively assess cybersecurity performance. It emphasizes **strategic alignment**, **holism**, and **unity of action**, empowering organizations to dynamically adapt to evolving cyber threats while maintaining a clear focus on protecting critical business assets and ensuring continuity of operations.
 
-Throughout my career, I’ve led projects across the public, private, and academic sectors, nationally and internationally. I’ve founded organizations, directed teams, and consistently pursued one goal: *to use engineering to solve today’s problems and prepare tomorrow’s solutions*.
+Although the **CyberTOMP framework** can be applied in private-sector environments, it is **especially designed and particularly useful for public organizations**, which often face strong **structural compartmentalization into silos**, a **high dependence on outsourced technical services**, and a **complex supply chain**. CyberTOMP addresses these challenges by incorporating **specific mechanisms** that facilitate coordination across functional areas, ensure holistic cybersecurity management, and integrate supply chain dependencies into tactical and operational decision-making. Furthermore, the project includes **software tools** that support both the **implementation and evaluation** of the framework, enabling organizations to operationalize cybersecurity processes efficiently and measure their effectiveness over time.
 
-In an increasingly complex world, I know that *multidisciplinary collaboration* is key. I love working with people from different fields, cultures, and perspectives to orchestrate ideas and build commitment. I believe in *shared leadership*, where everyone contributes to success.
+## Technical Approach
 
-**Do we share the same vision?** If so, don’t wait. Let’s get in touch and start creating together!
+CyberTOMP is built upon the existing controls and principles defined in the most comprehensive and detailed versions of recognized **cybersecurity** standards, models, and initiatives, such as **MITRE ATT&CK®**, **CIS Critical Security Controls**, and the **NIST Cybersecurity Framework**, among others (but not on information security ones). Based on this foundation, and following a deep and systematic analysis of both the theoretical and practical cybersecurity needs of private and, especially, public entities, a methodological model has been developed, together with its corresponding processes, procedures, and tools, to enable a **holistic, bottom-up management** of organizational cybersecurity. Each stage of its development has been thoroughly researched, tested through pilot implementations and real organizational deployments, and subjected to rigorous scrutiny by the scientific community through **anonymous peer-reviewed publications**. This provides the model with proven guarantees of **real-world applicability** and **demonstrated practical effectiveness**.
+
+## Results or Impact
+
+The **CyberTOMP framework** has established the foundation for a **holistic approach to cybersecurity management** in the public sector, one that actively involves the lowest organizational levels and ensures a **unified course of action**, even in the presence of operational silos. It is a **comprehensive model** that provides high visibility across all layers of the organization, supported by **specific metrics**, and enables effective **integration of outsourced services** by incorporating the organization’s **service providers within its supply chain** to ensure proper joint cybersecurity management.
+
+As a result of these guiding principles, numerous studies and analyses have been conducted on its implementation, contributing to a **relevant body of knowledge** applicable to various facets of cybersecurity. Several **public and private entities**, many of which have also participated in the model’s development by bringing practical insights and helping define the requirements for **supporting software tools**, are currently managing their cybersecurity successfully through **CyberTOMP**.
+
+
+
+
+
+
+
+
