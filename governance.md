@@ -45,9 +45,9 @@ It does **not** govern:
 
 The governance model is built around collaborative roles:
 
-*   **Steering committee**: A group responsible for reviewing proposals, ensuring alignment with principles, and guiding strategic direction.
-*   **Open Community**: Contributors who share ideas, provide feedback, and participate in discussions and voting.
-*   **Facilitators**: Individuals who moderate conversations, manage collaborative platforms, and ensure smooth communication.
+*   **Steering committee**: A group responsible for reviewing proposals, ensuring alignment with principles, and guiding strategic direction. The Steering Committee will be a collegial body composed of members of the GITACA research group, as the initial promoters of the project. However, this does not preclude the possibility that, in the medium term, other individuals may join if, in the judgment of the Steering Committee itself, they have demonstrated an exceptional commitment to the project and its objectives
+*   **Open Community**: Contributors who share ideas, provide feedback, and participate in discussions and voting. The community members are welcome to submit their work for consideration as part of the CyberTOMP® Framework, provided it aligns with the overall governance model and adheres to the guidelines set forth in the [Contributions](/contributions) section.
+*   **Facilitators**: Individuals who moderate conversations, manage collaborative platforms, and ensure smooth communication. Facilitators will be appointed from among community members by the Steering Committee, provided they have demonstrated a strong commitment to the principles outlined in the [Code of Conduct](/codeofconduct).
 
 ## 5. **Evolution Process**
 
