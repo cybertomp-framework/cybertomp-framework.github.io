@@ -6,7 +6,7 @@ cover-img:
   - "/assets/img/section-cover.png"
 ---
 
-This section showcases the research and publications developed within the CyberTOMP framework. Our work focuses on advancing cybersecurity governance through innovative methodologies, collaborative studies, and practical insights that strengthen standards and controls. Explore how these contributions shape a holistic approach to security and resilience.
+This section showcases the research and publications developed within the CyberTOMP® framework. Our work focuses on advancing cybersecurity governance through innovative methodologies, collaborative studies, and practical insights that strengthen standards and controls. Explore how these contributions shape a holistic approach to security and resilience.
 
 ## Journal Articles
 
