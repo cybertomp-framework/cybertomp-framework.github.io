@@ -6,7 +6,7 @@ cover-img:
   - "/assets/img/section-cover.png"
 ---
 
-The seed of the **CyberTOMP® framework** emerged in 2022 within the research work conducted by **Dr. Manuel Domínguez-Dorado**, which culminated in his doctoral thesis *“Holistic Management and Evaluation of Cybersecurity in the Public Sector”*, developed under the **GÍTACA Research Group** at the **University of Extremadura**.  
+The seed of the **CyberTOMP® framework** emerged in 2021-2022 within the research work conducted by **Dr. Manuel Domínguez-Dorado**, which culminated in his doctoral thesis *“Holistic Management and Evaluation of Cybersecurity in the Public Sector”*, developed under the **GÍTACA Research Group** at the **University of Extremadura**.  
 
 It was in the context of this research that the first version of the theoretical model was published:  
 
