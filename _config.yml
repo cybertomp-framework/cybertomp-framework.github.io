@@ -23,7 +23,8 @@ navbar-links:
   About CyberTOMP®:
     - Overview: "/"
     - History: "history"
-    - Governance: "governance"
+    - Governance model: "governance"
+    - Current roles: "currentroles"
     - Trademark: "trademark"
     - License: "license"
     
