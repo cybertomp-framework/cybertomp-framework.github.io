@@ -13,7 +13,7 @@ The **CyberTOMP®** trademark and its associated logo, shown below, are register
 The trademark holder expresses full respect for the value and importance of third parties’ intellectual property rights, requesting reciprocal consideration.  
 The model for holistic cybersecurity management and assessment is made available under an **open-access regime**, allowing its use, application, and modification by any interested entity.
 
-However, the **trademark and name remain legally protected**, ensuring their function as exclusive identifiers of the official version of the model, endorsed by its authors.  
+However, the **trademark and logo remain legally protected**, ensuring their function as exclusive identifiers of the official version of the model, endorsed by its authors.  
 **CyberTOMP®** is developed and maintained under the support of accredited scientific research, ensuring a high level of quality.  
 Thus, organizations can trust that any references to **CyberTOMP®** or use of its official logo unambiguously refer to the genuine version of the model, excluding any derivative or third-party variant.
 
