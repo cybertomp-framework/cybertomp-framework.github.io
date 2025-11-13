@@ -6,19 +6,17 @@ cover-img:
   - "/assets/img/section-cover.png"
 ---
 
-## **Positioning Statement**
-
 CyberTOMP® is an open framework **primarily designed to serve public sector entities**, addressing their unique challenges such as a high dependency on third-party service providers, limited agility in adopting changes, and the complexity of managing large supply chains. While its principles and practices are optimized for governmental and public service organizations, the framework remains adaptable and can also be applied in private sector contexts where similar governance challenges exist.
 
 ***
 
 ## 1. **Purpose**
 
-The purpose of this document is to define how the CyberTOMP® Framework evolves within an open and collaborative community. Rather than governing adoption, this governance model focuses on guiding the **continuous improvement of a framework tailored to public sector realities**, while remaining flexible for broader use. It ensures that changes are transparent, inclusive, and aligned with the framework’s core principles.
+The purpose of this section is to define how the CyberTOMP® Framework evolves within an open and collaborative community. Rather than governing adoption, this governance model focuses on guiding the **continuous improvement of a framework tailored to public sector realities**, while remaining flexible for broader use. It ensures that changes are transparent, inclusive, and aligned with the framework’s core principles.
 
 ## 2. **Governance Principles**
 
-The evolution of CyberTOMP® is guided by a set of principles that reflect the spirit of openness and collaboration:
+The evolution of CyberTOMP® is guided by a set of principles that reflect the spirit of openness, collaboration, usefulness and robustness:
 
 *   **Transparency**: All decisions, discussions, and changes are documented and accessible to the community.
 *   **Inclusivity**: Every member of the community has the opportunity to contribute ideas and feedback.
@@ -30,7 +28,7 @@ The evolution of CyberTOMP® is guided by a set of principles that reflect the s
 
 ## 3. **Scope**
 
-This governance document applies to:
+This governance model applies to:
 
 *   The process for proposing, reviewing, and approving changes to the whole framework and all its subprojects.
 *   The roles and responsibilities of individuals and groups involved in its evolution.
@@ -40,6 +38,7 @@ It does **not** govern:
 
 *   How organizations implement or adopt CyberTOMP®.
 *   Specific technical deployments or proprietary/derivative adaptations.
+*   Actions required to grant third parties permissions to use the CyberTOMP® trademark and associated logo, as defined in the [Trademark](/trademark) section.
 
 ## 4. **Governance Structure**
 
