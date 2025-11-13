@@ -23,7 +23,7 @@ The CyberTOMP® framework is composed of several specialized projects that work 
         </div>
         <div class="card-body">
           <h5 class="card-title">CyberTOMP® framework core</h5>
-          <p class="card-text">Navigable documentation of the CyberTOMP® model, along with materials, tools, and guides for its practical application.</p>
+          <p class="card-text">Navigable documentation of the CyberTOMP® model, along with materials, tools, guides and tips for its practical application step-by-step.</p>
         </div>
       </div>
     </a>
@@ -43,7 +43,7 @@ The CyberTOMP® framework is composed of several specialized projects that work 
         </div>
         <div class="card-body">
           <h5 class="card-title">FLECO library</h5>
-          <p class="card-text">Java library that implements a constraint-based genetic algorithm capable of finding feasible combinations of security actions aligned with CyberTOMP®.</p>
+          <p class="card-text">Java library that implements a constrained genetic algorithm capable of finding feasible combinations of security actions aligned with CyberTOMP®.</p>
         </div>
       </div>
     </a>
@@ -63,7 +63,7 @@ The CyberTOMP® framework is composed of several specialized projects that work 
         </div>
         <div class="card-body">
           <h5 class="card-title">FLECO Studio</h5>
-          <p class="card-text">Visual user tool designed to interact with the FLECO library and assist in multiple steps of implementing and managing holistic cybersecurity with CyberTOMP®, as well as supporting the development of cybersecurity situational awareness.</p>
+          <p class="card-text">Visual user tool designed to interact with the FLECO library and assist in implementing and managing holistic cybersecurity with CyberTOMP®, as well as developing the cyber situational awareness.</p>
         </div>
       </div>
     </a>
