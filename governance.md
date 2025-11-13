@@ -5,9 +5,6 @@ subtitle: Principles, Structure, and Best Practices
 cover-img:
   - "/assets/img/section-cover.png"
 ---
-Here’s a more **narrative and descriptive version in English**, formatted in Markdown, emphasizing governance of **framework evolution within an open community**:
-
-***
 
 ## 1. **Purpose**
 
@@ -83,7 +80,3 @@ Every decision and change is logged in a publicly accessible archive. Regular re
 
 CyberTOMP® operates under open licenses that guarantee free access and contribution. Contributors are acknowledged for their work, fostering a culture of recognition and respect.
 
-***
-
-Would you like me to **expand this into a full draft document with explanatory paragraphs under each section**, or **add practical examples and diagrams (e.g., a flowchart of the evolution process)**?  
-I can also **make it sound more formal and normative**, like an ISO-style governance standard. Which direction do you prefer?
