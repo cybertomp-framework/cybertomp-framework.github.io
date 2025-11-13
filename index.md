@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Overview
-subtitle: A holistic perspective on cybersecurity and governance
+subtitle: A holistic framework for asset‑focused cybersecurity management in the Public Sector
 cover-img:
   - "/assets/img/section-cover.png"
 ---
