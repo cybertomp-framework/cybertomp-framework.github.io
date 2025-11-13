@@ -25,7 +25,7 @@ Any report of unauthorized use or infringement of the **CyberTOMP®** trademark 
 
 ## Authorized and “Fair Use”
 
-In addition to cases provided for by applicable law, **“fair use”** of the **CyberTOMP®** trademark and logo will be deemed to occur, and no prior authorization will be required, when the trademark and logo are used exclusively to refer to the official versions of the **CyberTOMP®** holistic cybersecurity management and assessment model, in accordance with the documentation and guidance provided by its authors.
+In addition to cases provided for by applicable law, **“fair use”** of the **CyberTOMP®** trademark and logo will be deemed to occur, and no prior authorization will be required, when the trademark and logo are used exclusively to refer to the official versions of the **CyberTOMP®** framework (including all their projects), in accordance with the documentation and guidance provided by its authors.
 
 Except in legally permitted **“fair use”** cases, the **CyberTOMP®** trademark and logo may only be used with **explicit, written authorization** from the trademark holder, in accordance with the usage guidelines below and the conditions established in the registered trademark license agreement.
 
@@ -78,7 +78,12 @@ To avoid any legal action by the trademark holder, users are requested to comply
 - Do not abbreviate the **CyberTOMP®** trademark or logo.  
 - Do not adopt or use trademarks, slogans, logos, designs, or configurations that may cause confusion with the registered **CyberTOMP®** trademark or logo.  
 - Do not imitate the distinctive shape or style of the **CyberTOMP®** logo.  
-- Do not use the **CyberTOMP®** trademark as part of a domain name.  
+- Do not use the **CyberTOMP®** name or logo in commercial products, services, or advertisements without prior authorization. Specifically:
+-- Under no circumstances should you claim to third parties that you possess **any kind of certification** or accredited knowledge regarding the **CyberTOMP®** model, its associated tools and software, its implementation process, or its evolution. This is especially prohibited if you are a company or an individual attempting to sell products or services to third parties seeking to use or implement **CyberTOMP®**.
+-- Under no circumstances should you claim to third parties that you develop training materials about **CyberTOMP®** and/or that you have the capacity to assess and issue any kind of certification related to the **CyberTOMP®** framework. This is especially prohibited if you are a training company or professional instructor attempting to sell courses, training materials, or certification services to third parties.
+- Do not register or use domain names, social media handles, or company names that include the **CyberTOMP®** trademark.
+- Do not use the **CyberTOMP®** name or logo in a way that suggests endorsement, partnership, or official association with the official **CyberTOMP®** project without approval.
+- Do not distribute modified versions of official **CyberTOMP®** materials, documentation or software together with the CyberTOMP® trademark or logo in a way that could mislead users about their origin or authenticity.
 
 ---
 
