@@ -76,6 +76,7 @@ To maintain clarity and stability:
 *   Each new joint version of the **CyberTOMP®** framework will increment the version number, and its revision number will be set to **"0"**. From that point until the next major version of the framework is released, each subproject may generate releases with the same version number but different revision numbers, provided they only include bug fixes and do not compromise the integrated functionality of the entire model. Otherwise, such fixes must wait until the next major version release. For example, version **1.0** of CyberTOMP® could include subprojects with tags like *cybertomp-1.0, cybertomp-1.7, or cybertomp-1.9*, but not *cybertomp-2.0 or cybertomp-2.2*.
 *   The Steering Committee will coordinate the joint release process across all subprojects, ensuring their update, stabilization, and collective readiness as a new version of the **CyberTOMP®** framework.
 *   Backward compatibility is considered whenever feasible.
+*   After a new version of the **CyberTOMP®** framework is released, previous versions will no longer evolve. They will remain unchanged for reference, use, and download, but will not accept contributions or corrections.
 *   All releases, along with their corresponding major changes and additions, will be publicly documented in the [Releases](/releases) section.
 
 ## 8. **Conflict Resolution**
