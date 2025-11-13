@@ -6,19 +6,31 @@ cover-img:
   - "/assets/img/section-cover.png"
 ---
 
-**CyberTOMP® Framework** (Cybersecurity Tactical and Operational Management Process) is a comprehensive and systematic framework designed to manage **asset-focused cybersecurity** from the **tactical and operational levels** of an organization. It bridges the gap left by traditional high-level security standards, such as ISO 27001 or NIST CSF, which often lack detailed procedures for lower organizational layers. CyberTOMP® provides a **methodological and procedural foundation** that complements these strategic frameworks, enabling consistent and holistic cybersecurity management across departments. The framework introduces structured processes, standardized metrics, and a unified list of expected outcomes (ULEO) to quantitatively assess cybersecurity performance. It emphasizes **strategic alignment**, **holism**, and **unity of action**, empowering organizations to dynamically adapt to evolving cyber threats while maintaining a clear focus on protecting critical business assets and ensuring continuity of operations.
+**CyberTOMP®** (Cybersecurity Tactical–Operational Management Process) is a framework designed to help organizations, particularly in the Public Sector, manage and evaluate cybersecurity in a holistic, asset‑focused way. It bridges the gap between strategic standards and the tactical/operational levels where cybersecurity actions truly take place.
 
-Although the **CyberTOMP® framework** can be applied in private-sector environments, it is **especially designed and particularly useful for public organizations**, which often face strong **structural compartmentalization into silos**, a **high dependence on outsourced technical services**, and a **complex supply chain**. CyberTOMP® addresses these challenges by incorporating **specific mechanisms** that facilitate coordination across functional areas, ensure holistic cybersecurity management, and integrate supply chain dependencies into tactical and operational decision-making. Furthermore, the project includes **software tools** that support both the **implementation and evaluation** of the framework, enabling organizations to operationalize cybersecurity processes efficiently and measure their effectiveness over time.
+## What is CyberTOMP®?
+CyberTOMP® is a systematic methodology that:
+- Uses the **business asset** as the basic unit of reference for cybersecurity.
+- Provides **procedural guidance** for tactical and operational levels, ensuring alignment with strategic goals.
+- Enables **holistic management**, integrating people, processes, technology, and supply chains.
 
-## Technical Approach
+## What is it used for?
+CyberTOMP® is applied to:
+- **Evaluate cybersecurity posture** across critical assets.
+- **Guide decision‑making** with clear metrics and proportional effort based on asset criticality.
+- **Facilitate collaboration** among multidisciplinary teams and external providers.
+- **Support supply chain security**, extending cybersecurity requirements to outsourced services.
 
-CyberTOMP® is built upon the existing controls and principles defined in the most comprehensive and detailed versions of recognized **cybersecurity** standards, models, and initiatives, such as **MITRE ATT&CK®**, **CIS Critical Security Controls**, the **CIS Community Defense Model** and the **NIST Cybersecurity Framework**, among others (but not on information security ones). Based on this foundation, and following a deep and systematic analysis of both the theoretical and practical cybersecurity needs of private and, especially, public entities, a methodological model has been developed, together with its corresponding processes, procedures, and tools, to enable a **holistic, bottom-up management** of organizational cybersecurity. Each stage of its development has been thoroughly researched, tested through pilot implementations and real organizational deployments, and subjected to rigorous scrutiny by the scientific community through **anonymous peer-reviewed publications**. This provides the model with proven guarantees of **real-world applicability** and **demonstrated practical effectiveness**.
+## Key Differentiators
+- **Asset‑centric approach**: Focuses on protecting what truly matters: the business asset.
+- **Holistic integration**: Breaks organizational silos, ensuring unity of action across departments and supply chains.
+- **Compatibility with standards**: Works independently yet aligns seamlessly with existing strategic frameworks (e.g., ISO 27001, NIST, CIS CDM).
+- **Procedural body**: Offers detailed processes, roles, responsibilities, and metrics for tactical and operational levels.
+- **Optimization algorithms**: Incorporates technologies, like genetic algorithms, to calculate feasible cybersecurity states quickly and efficiently.
+- **Practical tools**: Includes tools, like FLECO Studio, a lightweight, open‑source software that makes implementation tangible and user‑friendly and also helps to improve the cyber situational awareness of the team.
+- **Supply chain coverage**: Extends cybersecurity management to outsourced SOC services and external providers.
 
-## Results or Impact
-
-The **CyberTOMP® framework** has established the foundation for a **holistic approach to cybersecurity management** in the public sector, one that actively involves the lowest organizational levels and ensures a **unified course of action**, even in the presence of operational silos. It is a **comprehensive model** that provides high visibility across all layers of the organization, supported by **specific metrics**, and enables effective **integration of outsourced services** by incorporating the organization’s **service providers within its supply chain** to ensure proper joint cybersecurity management.
-
-As a result of these guiding principles, numerous studies and analyses have been conducted on its implementation, contributing to a **relevant body of knowledge** applicable to various facets of cybersecurity. Several **public and private entities**, many of which have also participated in the model’s development by bringing practical insights and helping define the requirements for **supporting software tools**, are currently managing their cybersecurity successfully through **CyberTOMP®**.
+CyberTOMP® transforms cybersecurity from a fragmented set of practices into a **coherent, measurable, and collaborative framework**, empowering organizations to face evolving cyber threats with confidence.
 
 
 
