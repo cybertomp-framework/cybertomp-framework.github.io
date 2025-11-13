@@ -71,9 +71,12 @@ Participation is the cornerstone of this governance model. Members can engage th
 
 To maintain clarity and stability:
 
-*   Updates follow a predictable release cycle.
-*   A public changelog records all modifications.
+*   All projects that make up the **CyberTOMP®** framework must evolve in unison if required. Specifically, the tools and software that support the implementation and management of the **CyberTOMP® core framework** must be updated at the time of each new release to ensure compatibility with the features and requirements incorporated into the model.
+*   When a new release is generated, all repositories shall create a tag named **cybertomp-version.revision** (for example, *cybertomp-1.0*), clearly defining which state of each repository is associated with a specific version of the framework.
+*   Each new joint version of the **CyberTOMP®** framework will increment the version number, and its revision number will be set to **"0"**. From that point until the next major version of the framework is released, each subproject may generate releases with the same version number but different revision numbers, provided they only include bug fixes and do not compromise the integrated functionality of the entire model. Otherwise, such fixes must wait until the next major version release. For example, version **1.0** of CyberTOMP® could include subprojects with tags like *cybertomp-1.0, cybertomp-1.7, or cybertomp-1.9*, but not *cybertomp-2.0 or cybertomp-2.2*.
+*   The Steering Committee will coordinate the joint release process across all subprojects, ensuring their update, stabilization, and collective readiness as a new version of the **CyberTOMP®** framework.
 *   Backward compatibility is considered whenever feasible.
+*   All releases, along with their corresponding major changes and additions, will be publicly documented in the [Releases](/releases) section.
 
 ## 8. **Conflict Resolution**
 
@@ -84,9 +87,9 @@ Disagreements are addressed through:
 
 ## 9. **Transparency and Accountability**
 
-Every decision and change is logged in a publicly accessible archive. Regular reports summarize the framework’s evolution, ensuring accountability to the community.
+Every decision or change will be documented in each repository using the standard tools provided by GitHub, allowing any community member to generate and review the corresponding changelog.
 
 ## 10. **Licensing and Intellectual Property**
 
-CyberTOMP® operates under open licenses that guarantee free access and contribution. Contributors are acknowledged for their work, fostering a culture of recognition and respect.
+CyberTOMP® operates under open licenses that guarantee free access and contribution. Contributors are acknowledged for their work, fostering a culture of recognition and respect. However, to ensure proper management of contributions and to prevent future licensing issues with content, materials, or software, each contributor must accept a **Contribution Agreement**, as described in the [Contributions](/contributions) section.
 
