@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Projects
-subtitle: Essential projects integrated into the CyberTOMP ecosystem
+subtitle: Essential projects integrated into the CyberTOMP® ecosystem
 cover-img:
   - "/assets/img/section-cover.png"
 ---
 
-The CyberTOMP framework is composed of several specialized projects that work together to deliver a comprehensive approach to cybersecurity governance. Each subproject addresses specific areas of research and practice, ensuring that the framework remains robust, adaptable, and aligned with real-world needs.
+The CyberTOMP® framework is composed of several specialized projects that work together to deliver a comprehensive approach to cybersecurity governance. Each subproject addresses specific areas of research and practice, ensuring that the framework remains robust, adaptable, and aligned with real-world needs.
 
 <div class="container">
   <div class="row">
@@ -17,13 +17,13 @@ The CyberTOMP framework is composed of several specialized projects that work to
           <div class="overflow-hidden">
             <img src="/assets/img/projects/cybertomp-logo.png"
                  class="card-img-top"
-                 alt="CyberTOMP framework core"
+                 alt="CyberTOMP® framework core"
                  style="transition: transform 0.3s;"
                  onmouseover="this.style.transform='scale(1.05)'"
                  onmouseout="this.style.transform='scale(1)'">
           </div>
           <div class="card-body">
-            <h5 class="card-title">CyberTOMP framework core</h5>
+            <h5 class="card-title">CyberTOMP® framework core</h5>
           </div>
         </div>
       </a>
