@@ -6,9 +6,15 @@ cover-img:
   - "/assets/img/section-cover.png"
 ---
 
+## **Positioning Statement**
+
+CyberTOMP® is an open framework **primarily designed to serve public sector entities**, addressing their unique requirements for transparency, accountability, and compliance. While its principles and practices are optimized for governmental and public service organizations, the framework remains adaptable and can be applied in private sector contexts where similar governance challenges exist.
+
+***
+
 ## 1. **Purpose**
 
-The purpose of this document is to establish clear guidelines for how the CyberTOMP® Framework evolves over time within an open and collaborative community. Rather than dictating adoption, this governance model focuses on ensuring that changes to the framework are transparent, inclusive, and aligned with its core principles. It provides a structure for decision-making that encourages innovation while maintaining consistency and integrity.
+The purpose of this document is to define how the CyberTOMP® Framework evolves within an open and collaborative community. Rather than governing adoption, this governance model focuses on guiding the **continuous improvement of a framework tailored to public sector realities**, while remaining flexible for broader use. It ensures that changes are transparent, inclusive, and aligned with the framework’s core principles.
 
 ## 2. **Governance Principles**
 
