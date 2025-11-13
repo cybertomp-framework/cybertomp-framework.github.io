@@ -8,7 +8,7 @@ cover-img:
 
 ## **Positioning Statement**
 
-CyberTOMP® is an open framework **primarily designed to serve public sector entities**, addressing their unique requirements for transparency, accountability, and compliance. While its principles and practices are optimized for governmental and public service organizations, the framework remains adaptable and can be applied in private sector contexts where similar governance challenges exist.
+CyberTOMP® is an open framework **primarily designed to serve public sector entities**, addressing their unique challenges such as a high dependency on third-party service providers, limited agility in adopting changes, and the complexity of managing large supply chains. While its principles and practices are optimized for governmental and public service organizations, the framework remains adaptable and can also be applied in private sector contexts where similar governance challenges exist.
 
 ***
 
@@ -45,7 +45,7 @@ It does **not** govern:
 
 The governance model is built around collaborative roles:
 
-*   **Management Committee**: A group responsible for reviewing proposals, ensuring alignment with principles, and guiding strategic direction.
+*   **Steering committee**: A group responsible for reviewing proposals, ensuring alignment with principles, and guiding strategic direction.
 *   **Open Community**: Contributors who share ideas, provide feedback, and participate in discussions and voting.
 *   **Facilitators**: Individuals who moderate conversations, manage collaborative platforms, and ensure smooth communication.
 
