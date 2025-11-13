@@ -17,9 +17,9 @@ This license allows copying, redistribution, adaptation, and building upon the m
 - Proper credit is given to **Manuel Domínguez-Dorado** and the **GITACA Research Group**.
 - Derivative works are licensed under the same terms.
 
-## Software and tools license
+## Software license
 
-Associated with the **CyberTOMP®** framework, several software projects and tools are released under the following license:
+Associated with the **CyberTOMP®** framework, several software projects are released under the following license:
 
 > **GNU Lesser General Public License v3.0 or later (LGPL-3.0-or-later)**  
 > [https://www.gnu.org/licenses/lgpl-3.0.html](https://www.gnu.org/licenses/lgpl-3.0.html)
@@ -40,5 +40,5 @@ Their use is regulated by the trademark policy set out in the [Trademark](/trade
 ## Practical Summary
 
 - You may freely use, copy, and modify the **CyberTOMP® model content** under **CC BY-SA 4.0**.  
-- You may freely use, copy, and modify any of the **Software or tools included in the framework** under **LGPL-3.0-or-later**.  
+- You may freely use, copy, and modify any of the **Software included in the framework** under **LGPL-3.0-or-later**.  
 - You may **not** use the **CyberTOMP® name or logo** except to refer to the official version or under “fair use”, unless you have explicit, written authorization.
