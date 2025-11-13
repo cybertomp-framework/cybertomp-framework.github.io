@@ -1,25 +1,89 @@
 ---
 layout: page
 title: Governance
-subtitle: A holistic perspective on cybersecurity and governance
+subtitle: Principles, Structure, and Best Practices
 cover-img:
   - "/assets/img/section-cover.png"
 ---
+Here’s a more **narrative and descriptive version in English**, formatted in Markdown, emphasizing governance of **framework evolution within an open community**:
 
-## Description
+***
 
-**CyberTOMP Framework** (Cybersecurity Tactical and Operational Management Process) is a comprehensive and systematic framework designed to manage **asset-focused cybersecurity** from the **tactical and operational levels** of an organization. It bridges the gap left by traditional high-level security standards, such as ISO 27001 or NIST CSF, which often lack detailed procedures for lower organizational layers. CyberTOMP provides a **methodological and procedural foundation** that complements these strategic frameworks, enabling consistent and holistic cybersecurity management across departments. The framework introduces structured processes, standardized metrics, and a unified list of expected outcomes (ULEO) to quantitatively assess cybersecurity performance. It emphasizes **strategic alignment**, **holism**, and **unity of action**, empowering organizations to dynamically adapt to evolving cyber threats while maintaining a clear focus on protecting critical business assets and ensuring continuity of operations.
+## 1. **Purpose**
 
-Although the **CyberTOMP framework** can be applied in private-sector environments, it is **especially designed and particularly useful for public organizations**, which often face strong **structural compartmentalization into silos**, a **high dependence on outsourced technical services**, and a **complex supply chain**. CyberTOMP addresses these challenges by incorporating **specific mechanisms** that facilitate coordination across functional areas, ensure holistic cybersecurity management, and integrate supply chain dependencies into tactical and operational decision-making. Furthermore, the project includes **software tools** that support both the **implementation and evaluation** of the framework, enabling organizations to operationalize cybersecurity processes efficiently and measure their effectiveness over time.
+The purpose of this document is to establish clear guidelines for how the CyberTOMP® Framework evolves over time within an open and collaborative community. Rather than dictating adoption, this governance model focuses on ensuring that changes to the framework are transparent, inclusive, and aligned with its core principles. It provides a structure for decision-making that encourages innovation while maintaining consistency and integrity.
 
-## Technical Approach
+## 2. **Governance Principles**
 
-CyberTOMP is built upon the existing controls and principles defined in the most comprehensive and detailed versions of recognized **cybersecurity** standards, models, and initiatives, such as **MITRE ATT&CK®**, **CIS Critical Security Controls**, and the **NIST Cybersecurity Framework**, among others (but not on information security ones). Based on this foundation, and following a deep and systematic analysis of both the theoretical and practical cybersecurity needs of private and, especially, public entities, a methodological model has been developed, together with its corresponding processes, procedures, and tools, to enable a **holistic, bottom-up management** of organizational cybersecurity. Each stage of its development has been thoroughly researched, tested through pilot implementations and real organizational deployments, and subjected to rigorous scrutiny by the scientific community through **anonymous peer-reviewed publications**. This provides the model with proven guarantees of **real-world applicability** and **demonstrated practical effectiveness**.
+The evolution of CyberTOMP® is guided by a set of principles that reflect the spirit of openness and collaboration:
 
-## Results or Impact
+*   **Transparency**: All decisions, discussions, and changes are documented and accessible to the community.
+*   **Inclusivity**: Every member of the community has the opportunity to contribute ideas and feedback.
+*   **Neutrality**: Decisions are made in the interest of the framework and its users, avoiding favoritism or commercial bias.
+*   **Continuous Improvement**: The framework should adapt to emerging needs, technologies, and best practices without losing its foundational values.
 
-The **CyberTOMP framework** has established the foundation for a **holistic approach to cybersecurity management** in the public sector, one that actively involves the lowest organizational levels and ensures a **unified course of action**, even in the presence of operational silos. It is a **comprehensive model** that provides high visibility across all layers of the organization, supported by **specific metrics**, and enables effective **integration of outsourced services** by incorporating the organization’s **service providers within its supply chain** to ensure proper joint cybersecurity management.
+## 3. **Scope**
 
-As a result of these guiding principles, numerous studies and analyses have been conducted on its implementation, contributing to a **relevant body of knowledge** applicable to various facets of cybersecurity. Several **public and private entities**, many of which have also participated in the model’s development by bringing practical insights and helping define the requirements for **supporting software tools**, are currently managing their cybersecurity successfully through **CyberTOMP**.
+This governance document applies to:
 
+*   The process for proposing, reviewing, and approving changes to the framework.
+*   The roles and responsibilities of individuals and groups involved in its evolution.
+*   Mechanisms for resolving disagreements and maintaining community harmony.
 
+It does **not** govern:
+
+*   How organizations implement or adopt CyberTOMP®.
+*   Specific technical deployments or proprietary adaptations.
+
+## 4. **Governance Structure**
+
+The governance model is built around collaborative roles:
+
+*   **Evolution Committee**: A group responsible for reviewing proposals, ensuring alignment with principles, and guiding strategic direction.
+*   **Open Community**: Contributors who share ideas, provide feedback, and participate in discussions and voting.
+*   **Facilitators**: Individuals who moderate conversations, manage collaborative platforms, and ensure smooth communication.
+
+## 5. **Evolution Process**
+
+The process for evolving CyberTOMP® is designed to be open and structured:
+
+1.  **Proposal Submission**: Any community member can submit a change proposal through the official repository.
+2.  **Review Phase**: The Evolution Committee evaluates the proposal for technical soundness and alignment with principles, while opening it for public comments.
+3.  **Approval and Voting**: Decisions are made through transparent voting, with clear criteria for acceptance.
+4.  **Publication**: Approved changes are documented and integrated into the official framework, with version notes and rationale.
+
+## 6. **Community Participation**
+
+Participation is the cornerstone of this governance model. Members can engage through:
+
+*   Public forums and discussion channels.
+*   Periodic surveys and voting sessions.
+*   Collaborative documentation and feedback loops.
+
+## 7. **Version Management**
+
+To maintain clarity and stability:
+
+*   Updates follow a predictable release cycle.
+*   A public changelog records all modifications.
+*   Backward compatibility is considered whenever feasible.
+
+## 8. **Conflict Resolution**
+
+Disagreements are addressed through:
+
+*   Mediation by facilitators.
+*   Escalation to the Evolution Committee if consensus cannot be reached.
+
+## 9. **Transparency and Accountability**
+
+Every decision and change is logged in a publicly accessible archive. Regular reports summarize the framework’s evolution, ensuring accountability to the community.
+
+## 10. **Licensing and Intellectual Property**
+
+CyberTOMP® operates under open licenses that guarantee free access and contribution. Contributors are acknowledged for their work, fostering a culture of recognition and respect.
+
+***
+
+Would you like me to **expand this into a full draft document with explanatory paragraphs under each section**, or **add practical examples and diagrams (e.g., a flowchart of the evolution process)**?  
+I can also **make it sound more formal and normative**, like an ISO-style governance standard. Which direction do you prefer?
