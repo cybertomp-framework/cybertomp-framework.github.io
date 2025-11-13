@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Governance
+title: Governance model
 subtitle: Principles, Structure, and Best Practices
 cover-img:
   - "/assets/img/section-cover.png"
