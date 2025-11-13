@@ -66,32 +66,32 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "ingeniero@manolodominguez.com"
-  #rss: false  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: manueldominguezdorado
-  github: manolodd
-  twitter: manolodd
+  email: "cybertomp@manolodominguez.com"
+# rss: false  # remove this line if you don't want to show an RSS link at the bottom
+# facebook: facebook-user
+  github: cybertomp-framework
+#  twitter: twitter-user
 #  patreon: DeanAttali
 #  youtube: "@daattali"
 #  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-  linkedin: manueldominguezdorado
+#  linkedin: linkedin-user
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: manueldominguezdorad
+#  instagram: instagram-user
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-  telegram: manueldominguezdorado
+#  telegram: telegram-user
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-  ORCID: 0000-0002-7252-7034
-  google-scholar: x56KT7UAAAAJ
+#  ORCID: orcid-id
+#  google-scholar: google-scholar-id
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -102,7 +102,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: CyberTOMP(R) framework news feed
 
 ###########################
 # --- General options --- #
@@ -118,13 +118,13 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "MyWebsite.com"
+url-pretty: "cybertomp-framework.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 30
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
@@ -282,7 +282,7 @@ markdown: kramdown
 highlighter: rouge
 #permalink: /:year-:month-:day-:title/
 permalink: /cybertomp-news-:month:day-:title/
-paginate: 3
+paginate: 5
 
 kramdown:
   input: GFM
