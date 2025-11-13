@@ -48,6 +48,8 @@ The governance model is built around collaborative roles:
 *   **Open Community**: Contributors who share ideas, provide feedback, and participate in discussions and voting. The community members are welcome to submit their work for consideration as part of the CyberTOMP® Framework, provided it aligns with the overall governance model and adheres to the guidelines set forth in the [Contributions](/contributions) section.
 *   **Facilitators**: Individuals who moderate conversations, manage collaborative platforms, and ensure smooth communication. Facilitators will be appointed from among community members by the Steering Committee, provided they have demonstrated a strong commitment to the principles outlined in the [Code of Conduct](/codeofconduct).
 
+![Governance structure](/assets/img/governance-structure.jpg){: .mx-auto.d-block :}
+
 ## 5. **Evolution Process**
 
 The process for evolving CyberTOMP® is designed to be open and structured:
