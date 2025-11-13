@@ -18,6 +18,9 @@ The evolution of CyberTOMP® is guided by a set of principles that reflect the s
 *   **Inclusivity**: Every member of the community has the opportunity to contribute ideas and feedback.
 *   **Neutrality**: Decisions are made in the interest of the framework and its users, avoiding favoritism or commercial bias.
 *   **Continuous Improvement**: The framework should adapt to emerging needs, technologies, cyberthreats and best practices without losing its foundational values.
+*   **Evidence-Based Evolution**: Changes to the framework must be supported by empirical evidence, such as documented research, pilot projects, or credible third-party studies, rather than unverified personal opinions.
+*   **Broad Applicability**: Enhancements should provide value to a wide range of organizations and contexts, avoiding highly specific or niche improvements that benefit only a limited set of use cases.
+*   **Public Sector Priority**: The framework’s evolution should prioritize the needs of public sector entities. Private sector considerations are welcome only if they do not compromise essential public requirements.
 
 ## 3. **Scope**
 
