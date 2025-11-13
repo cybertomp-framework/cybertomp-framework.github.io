@@ -54,8 +54,8 @@ The governance model is built around collaborative roles:
 The process for evolving CyberTOMP® is designed to be open and structured:
 
 1.  **Proposal Submission**: Any community member can submit a change proposal through the official repository following the guidelines set forth in the [Contributions](/contributions) section.
-2.  **Review Phase**: The Steering Committee evaluates the proposal for technical soundness and alignment with principles, while opening it for public comments whenever needed.
-3.  **Approval and Voting**: Relevant decisions are made through transparent voting, with clear criteria for acceptance. Minor changes are accepted if they fulfill the requierements of this goernance model.
+2.  **Review Phase**: The Steering Committee evaluates the proposal for technical soundness and alignment with principles, while opening it for public comments if necessary.
+3.  **Approval and Voting**: Relevant decisions are made through a transparent vote by the members of the Steering Committee, taking into account compliance with the principles outlined in this governance model and, where applicable, the feedback provided by the broader community. Each decision will be communicated along with the rationale behind it. Minor changes may be approved if they meet the requirements established in this governance model.
 4.  **Publication**: Approved changes are documented and integrated into the official framework (model, guides, materials, software...), with version notes and rationale.
 
 ## 6. **Community Participation**
