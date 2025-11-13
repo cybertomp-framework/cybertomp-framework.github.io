@@ -54,10 +54,16 @@ The textual and visual representation of the trademark must be treated as a prop
 - <span style="font-variant: small-caps;">Cyber</span>TOMP®, in a single color, any color, and any font or size.  
 - **<span style="font-variant: small-caps;">Cyber</span>TOMP®**, in a single color, any color, and any font or size.  
 - CYBER**TOMP®**, in a single color, any color, and any font or size.  
-- **CYBER**TOMP®, in a single color, any color, and any font or size.  
-- <span style="color:#0E517F;">CYBER</span><span style="color:#565656;">TOMP®</span>, using exactly the color combination (#0E517F and #565656) and any font or size.  
-- **<span style="color:#0E517F;">CYBER</span><span style="color:#565656;">TOMP®</span>**, using exactly the color combination (#0E517F and #565656) and any font or size.  
+- **CYBER**TOMP®, in a single color, any color, and any font or size.
 
+Or any of the previous forms, in a two-color style, using exactly the following color combination: #0E517F for ‘CYBER’ and #565656 for ‘TOMP’, for instance:
+
+- <span style="color:#0E517F;">CYBER</span><span style="color:#565656;">TOMP®</span>.  
+- **<span style="color:#0E517F;">CYBER</span><span style="color:#565656;">TOMP®</span>**.  
+- <span style="font-variant: small-caps; color:#0E517F;">CYBER</span><span style="color:#565656;">TOMP®</span>.  
+- **<span style="font-variant: small-caps; color:#0E517F;">CYBER</span><span style="color:#565656;">TOMP®</span>**.  
+- <span style="color:#0E517F;">CYBER</span><span style="color:#565656;">TOMP®</span>.  
+- **<span style="color:#0E517F;">CYBER</span><span style="color:#565656;">TOMP®</span>**.  
 
 ---
 
