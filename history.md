@@ -1,7 +1,7 @@
 ---
 layout: page
 title: History
-subtitle: The Road from Theory to Practice: Building the CyberTOMP® Framework
+subtitle: The Road from Theory to Practice - Building the CyberTOMP® Framework
 cover-img:
   - "/assets/img/section-cover.png"
 ---
