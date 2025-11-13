@@ -6,10 +6,8 @@ cover-img:
   - "/assets/img/section-cover.png"
 ---
 
-# CyberTOMP Code of Conduct
-
 ## 1. Purpose
-CyberTOMP is an open framework for cybersecurity management based on formal research. We aim to maintain an inclusive, collaborative, and respectful community.
+CyberTOMP® is an open framework for cybersecurity management based on formal research. We aim to maintain an inclusive, collaborative, and respectful community.
 
 ## 2. Principles
 - **Respect**: Treat everyone with courtesy, regardless of experience, identity, or background.
@@ -39,6 +37,7 @@ If you observe inappropriate behavior:
 
 ## 7. Attribution
 This Code of Conduct is adapted from the Contributor Covenant, version 2.1
+
 
 
 
