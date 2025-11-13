@@ -53,17 +53,17 @@ The governance model is built around collaborative roles:
 
 The process for evolving CyberTOMP® is designed to be open and structured:
 
-1.  **Proposal Submission**: Any community member can submit a change proposal through the official repository.
-2.  **Review Phase**: The Evolution Committee evaluates the proposal for technical soundness and alignment with principles, while opening it for public comments.
-3.  **Approval and Voting**: Decisions are made through transparent voting, with clear criteria for acceptance.
-4.  **Publication**: Approved changes are documented and integrated into the official framework, with version notes and rationale.
+1.  **Proposal Submission**: Any community member can submit a change proposal through the official repository following the guidelines set forth in the [Contributions](/contributions) section.
+2.  **Review Phase**: The Steering Committee evaluates the proposal for technical soundness and alignment with principles, while opening it for public comments whenever needed.
+3.  **Approval and Voting**: Relevant decisions are made through transparent voting, with clear criteria for acceptance. Minor changes are accepted if they fulfill the requierements of this goernance model.
+4.  **Publication**: Approved changes are documented and integrated into the official framework (model, guides, materials, software...), with version notes and rationale.
 
 ## 6. **Community Participation**
 
 Participation is the cornerstone of this governance model. Members can engage through:
 
 *   Public forums and discussion channels.
-*   Periodic surveys and voting sessions.
+*   Periodic surveys and voting sessions whenever needed.
 *   Collaborative documentation and feedback loops.
 
 ## 7. **Version Management**
@@ -79,7 +79,7 @@ To maintain clarity and stability:
 Disagreements are addressed through:
 
 *   Mediation by facilitators.
-*   Escalation to the Management Committee if consensus cannot be reached.
+*   Escalation to the Steering Committee if consensus cannot be reached.
 
 ## 9. **Transparency and Accountability**
 
