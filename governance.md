@@ -17,26 +17,26 @@ The evolution of CyberTOMP® is guided by a set of principles that reflect the s
 *   **Transparency**: All decisions, discussions, and changes are documented and accessible to the community.
 *   **Inclusivity**: Every member of the community has the opportunity to contribute ideas and feedback.
 *   **Neutrality**: Decisions are made in the interest of the framework and its users, avoiding favoritism or commercial bias.
-*   **Continuous Improvement**: The framework should adapt to emerging needs, technologies, and best practices without losing its foundational values.
+*   **Continuous Improvement**: The framework should adapt to emerging needs, technologies, cyberthreats and best practices without losing its foundational values.
 
 ## 3. **Scope**
 
 This governance document applies to:
 
-*   The process for proposing, reviewing, and approving changes to the framework.
+*   The process for proposing, reviewing, and approving changes to the whole framework and all its subprojects.
 *   The roles and responsibilities of individuals and groups involved in its evolution.
 *   Mechanisms for resolving disagreements and maintaining community harmony.
 
 It does **not** govern:
 
 *   How organizations implement or adopt CyberTOMP®.
-*   Specific technical deployments or proprietary adaptations.
+*   Specific technical deployments or proprietary/derivative adaptations.
 
 ## 4. **Governance Structure**
 
 The governance model is built around collaborative roles:
 
-*   **Evolution Committee**: A group responsible for reviewing proposals, ensuring alignment with principles, and guiding strategic direction.
+*   **Management Committee**: A group responsible for reviewing proposals, ensuring alignment with principles, and guiding strategic direction.
 *   **Open Community**: Contributors who share ideas, provide feedback, and participate in discussions and voting.
 *   **Facilitators**: Individuals who moderate conversations, manage collaborative platforms, and ensure smooth communication.
 
@@ -70,7 +70,7 @@ To maintain clarity and stability:
 Disagreements are addressed through:
 
 *   Mediation by facilitators.
-*   Escalation to the Evolution Committee if consensus cannot be reached.
+*   Escalation to the Management Committee if consensus cannot be reached.
 
 ## 9. **Transparency and Accountability**
 
