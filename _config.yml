@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: CyberTOMP framework
+title: CyberTOMP® framework
 
 # Your name to show in the footer
 author: GITACA Research Group - University of Extremadura 
@@ -20,7 +20,7 @@ author: GITACA Research Group - University of Extremadura
 ###############################################
 
 navbar-links:
-  About CyberTOMP:
+  About CyberTOMP®:
     - Overview: "/"
     - History: "history"
     - Governance: "governance"
