@@ -1,14 +1,14 @@
 ---
 layout: page
 title: License
-subtitle: CyberTOMP® Content and Software Licensing
+subtitle: Content and Software Licensing
 cover-img:
   - "/assets/img/section-cover.png"
 ---
 
 ## Content License
 
-The content of CyberTOMP framework, including documentation, methodological materials, and complementary resources of the **CyberTOMP®** model, is distributed under the following license:
+The content of CyberTOMP® framework, including documentation, methodological materials, and complementary resources of the **CyberTOMP®** model, is distributed under the following license:
 
 > **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**  
 > [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
