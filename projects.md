@@ -31,7 +31,7 @@ The CyberTOMP® framework is composed of several specialized projects that work 
 
   <!-- FLECO Library -->
   <div class="col-12 col-lg-6 mb-4">
-    <a href="https://github.com/cybertomp-framework/fleco" target="_blank" class="text-decoration-none text-dark">
+    <a href="https://github.com/cybertomp-framework/fleco-library" target="_blank" class="text-decoration-none text-dark">
       <div class="card h-100 shadow-sm" onmouseover="this.classList.add('shadow-lg')" onmouseout="this.classList.remove('shadow-lg')">
         <div class="overflow-hidden">
           <img src="/assets/img/projects/fleco-logo.png"
