@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Current roles
-subtitle: A holistic perspective on cybersecurity and governance
+subtitle: Current Composition of Community Governance Bodies
 cover-img:
   - "/assets/img/section-cover.png"
 ---
