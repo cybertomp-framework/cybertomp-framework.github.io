@@ -11,18 +11,18 @@ The CyberTOMP® framework is composed of several specialized projects that work 
 <div class="row">
   <!-- CyberTOMP Core -->
   <div class="col-12 col-lg-6 mb-4">
-    <a href="https://github.com/cybertomp-framework/cybertomp-core" target="_blank" class="text-decoration-none text-dark">
+    <a href="https://github.com/cybertomp-framework/cybertomp-framework-core" target="_blank" class="text-decoration-none text-dark">
       <div class="card h-100 shadow-sm" onmouseover="this.classList.add('shadow-lg')" onmouseout="this.classList.remove('shadow-lg')">
         <div class="overflow-hidden">
           <img src="/assets/img/projects/cybertomp-logo.png"
                class="card-img-top"
-               alt="CyberTOMP® framework core"
+               alt="Framework core"
                style="transition: transform 0.3s;"
                onmouseover="this.style.transform='scale(1.05)'"
                onmouseout="this.style.transform='scale(1)'">
         </div>
         <div class="card-body">
-          <h5 class="card-title">CyberTOMP® framework core</h5>
+          <h5 class="card-title">Framework core</h5>
           <p class="card-text">Navigable documentation of the CyberTOMP® model, along with materials, tools, guides and tips for its practical application step-by-step.</p>
         </div>
       </div>
@@ -31,7 +31,7 @@ The CyberTOMP® framework is composed of several specialized projects that work 
 
   <!-- FLECO Library -->
   <div class="col-12 col-lg-6 mb-4">
-    <a href="https://github.com/cybertomp-framework/fleco-library" target="_blank" class="text-decoration-none text-dark">
+    <a href="https://github.com/cybertomp-framework/cybertomp-fleco-library" target="_blank" class="text-decoration-none text-dark">
       <div class="card h-100 shadow-sm" onmouseover="this.classList.add('shadow-lg')" onmouseout="this.classList.remove('shadow-lg')">
         <div class="overflow-hidden">
           <img src="/assets/img/projects/fleco-logo.png"
@@ -51,7 +51,7 @@ The CyberTOMP® framework is composed of several specialized projects that work 
 
   <!-- FLECO Studio -->
   <div class="col-12 col-lg-6 mb-4">
-    <a href="https://github.com/cybertomp-framework/fleco-studio" target="_blank" class="text-decoration-none text-dark">
+    <a href="https://github.com/cybertomp-framework/cybertomp-fleco-studio" target="_blank" class="text-decoration-none text-dark">
       <div class="card h-100 shadow-sm" onmouseover="this.classList.add('shadow-lg')" onmouseout="this.classList.remove('shadow-lg')">
         <div class="overflow-hidden">
           <img src="/assets/img/projects/flecostudio-logo.png"
