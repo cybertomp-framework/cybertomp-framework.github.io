@@ -100,5 +100,5 @@ Every decision or change will be documented in each repository using the standar
 
 ## 10. **Licensing and Intellectual Property**
 
-CyberTOMP® operates under open licenses that guarantee free access and contribution. Contributors are acknowledged for their work, fostering a culture of recognition and respect. However, to ensure proper management of contributions and to prevent future licensing issues with content, materials, or software, each contributor must accept a **Contribution Agreement**, as described in the [Contributions](/contributions) section.
+CyberTOMP® operates under open licenses that guarantee free access and contribution. Contributors are acknowledged for their work, fostering a culture of recognition and respect. However, to ensure proper management of contributions and to prevent future licensing issues with content, materials, or software, each contributor must accept a **Contribution License Agreement**, as described in the [Contributions](/contributions) section.The contributor’s acceptance of this CLA does not imply that the proposed contribution will be accepted, which will require the approvals and validations described in this governance model.
 
