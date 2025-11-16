@@ -66,7 +66,10 @@ This CLA shall be governed by and construed in accordance with the laws of Spain
 
 By signing below, the Contributor agrees to the terms of this CLA:
 
-**Contributor Name:** ___________________________  
-**Date:** ___________________________  
-**Signature:** ___________________________  
+* **Contributor Name:** ___________________________  
+* **Date:** ___________________________  
+* **Signature:** ___________________________  
+
+
+
 
