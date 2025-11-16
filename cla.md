@@ -8,7 +8,7 @@ cover-img:
 
 The following Contribution License Agreement will appear whenever a contribution is made to any of the projects that form the **CyberTOMP®** framework. It must be signed and accepted by the contributor before the contribution can even be considered for review.
 
-# Contribution License Agreement (CLA) - CyberTOMP® framework
+# Contribution License Agreement (CLA)
 
 * **Project:** CyberTOMP® framework  
 * **Subprojects composing the main project:** cybertomp-framework-core, cybertomp-fleco-library, cybertomp-fleco-studio  
