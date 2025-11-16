@@ -48,7 +48,7 @@ The Contributor represents and warrants that:
 
 1. The Contributor must sign this CLA before any Contribution can be merged into the CyberTOMP® framework repository (or any of its subprojects).
 2. The Contributor agrees that their Contribution will be reviewed by the Principal Maintainer, who may require modifications before acceptance.
-3. The Contributor agrees that signing this CLA doesn't means that the contribution is going to be accepted as it need to fulfill all requirements and validations/aceptance defined in the CyberTOMP® framework' [Governance](governance) model.
+3. The Contributor agrees that signing this CLA doesn't means that the contribution is going to be accepted as it need to fulfill all requirements and validations/aceptance defined in the CyberTOMP® framework' [Governance](/governance) model.
 
 ---
 
