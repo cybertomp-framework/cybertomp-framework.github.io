@@ -10,9 +10,9 @@ The following Contribution License Agreement will appear whenever a contribution
 
 # Contribution License Agreement (CLA) - CyberTOMP® framework
 
-**Project:** CyberTOMP® framework  
-**Subprojects composing the main project:** cybertomp-framework-core, cybertomp-fleco-library, cybertomp-fleco-studio  
-**Author / Principal Maintainer:** Manuel Domínguez Dorado  
+* **Project:** CyberTOMP® framework  
+* **Subprojects composing the main project:** cybertomp-framework-core, cybertomp-fleco-library, cybertomp-fleco-studio  
+* **Author / Principal Maintainer:** Manuel Domínguez Dorado  
 
 ## 1. Purpose
 
