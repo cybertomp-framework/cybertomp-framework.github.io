@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contributor License Agreement
-subtitle: Managing rights and intelectual property of contribution
+subtitle: Managing rights and intelectual property of contributions
 cover-img:
   - "/assets/img/section-cover.png"
 ---
