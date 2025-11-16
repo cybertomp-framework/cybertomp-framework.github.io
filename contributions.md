@@ -17,7 +17,7 @@ See [Governance](/governance) section for additional information.
 
 Please include a justification report with your contribution. This report should explain how your submission aligns with the principles above and include any supporting evidence. The Steering Committee will review this report before accepting your contribution.
 
-See the [Contribution Justification Template](/cjt) you should complete and add to your contribution.
+See the [Contribution Justification Report Template](/cjr) you should complete and add to your contribution.
 
 Finally, before submitting, please make sure you have signed the Contributor License Agreement (CLA). The CLA ensures that your contributions can be legally incorporated into the project. It will appear when necessary but just for you to know this will be the content of the [Contributor License Agreement](/cla)
 
