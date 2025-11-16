@@ -6,8 +6,6 @@ cover-img:
   - "/assets/img/section-cover.png"
 ---
 
-## Contributions
-
 We love seeing community contributions! All contributions should follow our governance principles to keep the framework reliable, relevant, and useful for everyone.
 
 - **Continuous Improvement**: Help the framework evolve with new needs, technologies, and cyber threats, while staying true to its core values.  
