@@ -6,9 +6,9 @@ cover-img:
   - "/assets/img/section-cover.png"
 ---
 
-**Project:** CyberTOMP® framework
-**Subprojects composing the main project:** cybertomp-framework-core, cybertomp-fleco-library, cybertomp-fleco-studio
-**Author / Principal Maintainer:** Manuel Domínguez Dorado
+**Project:** CyberTOMP® framework  
+**Subprojects composing the main project:** cybertomp-framework-core, cybertomp-fleco-library, cybertomp-fleco-studio  
+**Author / Principal Maintainer:** Manuel Domínguez Dorado  
 
 ## 1. Purpose
 
@@ -62,7 +62,7 @@ This CLA shall be governed by and construed in accordance with the laws of Spain
 
 By signing below, the Contributor agrees to the terms of this CLA:
 
-**Contributor Name:** ___________________________
-**Date:** ___________________________
-**Signature:** ___________________________
+**Contributor Name:** ___________________________  
+**Date:** ___________________________  
+**Signature:** ___________________________  
 
