@@ -9,7 +9,7 @@ cover-img:
 We love seeing community contributions! All contributions should follow our governance principles to keep the framework reliable, relevant, and useful for everyone.
 
 - **Continuous Improvement**: Help the framework evolve with new needs, technologies, and cyber threats, while staying true to its core values.  
-- **Evidence-Based Evolution**: Back up your contribution with solid evidence—peer-reviewed publications are ideal, but other credible sources are welcome too. Opinions alone are not enough.  
+- **Evidence-Based Evolution**: Back up your contribution with solid evidence, peer-reviewed publications are ideal, but other credible sources are welcome too. Opinions alone are not enough.  
 - **Broad Applicability**: Aim for improvements that benefit a wide range of organizations and contexts, rather than very narrow or niche cases.  
 - **Public Sector Priority**: The framework focuses on public sector needs. Private sector considerations are welcome only if they don’t compromise public requirements.
 
