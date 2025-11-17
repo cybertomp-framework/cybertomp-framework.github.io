@@ -6,4 +6,4 @@ cover-img:
   - "/assets/img/section-cover.png"
 ---
 
-To be completed
+Community channels are being created. They will appear here soon.
