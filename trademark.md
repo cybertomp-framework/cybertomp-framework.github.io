@@ -17,9 +17,7 @@ However, the **trademark and logo remain legally protected**, ensuring their fun
 **CyberTOMP®** is developed and maintained under the support of accredited scientific research, ensuring a high level of quality.  
 Thus, organizations can trust that any references to **CyberTOMP®** or use of its official logo unambiguously refer to the genuine version of the model, excluding any derivative or third-party variant.
 
-Any report of unauthorized use or infringement of the **CyberTOMP®** trademark and logo should be submitted via email to:
-
-> **cybertomp@manolodominguez.com**
+Any report of unauthorized use or infringement of the **CyberTOMP®** trademark and logo should be submitted via email to: [trademark@cybertomp.org](mailto:trademark@cybertomp.org)
 
 ---
 
@@ -89,7 +87,7 @@ To avoid any legal action by the trademark holder, users are requested to comply
 - You may **not** use the **CyberTOMP® name or logo** except to refer to the official version or under “fair use”, unless you have explicit, written authorization.
 - Derivative methodologies must be published under a **different name or trademark**.
 - Derivative tools or software must be published under a **different name or trademark**.
-- Any trademark misuse or infringement should be reported to **cybertomp@manolodominguez.com**.
+- Any trademark misuse or infringement should be reported to **[trademark@cybertomp.org](mailto:trademark@cybertomp.org)**.
 
 ---
 
