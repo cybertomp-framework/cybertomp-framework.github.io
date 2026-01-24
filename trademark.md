@@ -19,21 +19,15 @@ Thus, organizations can trust that any references to **CyberTOMP®** or use of i
 
 Any report of unauthorized use or infringement of the **CyberTOMP®** trademark and logo should be submitted via email to: [trademark@cybertomp.org](mailto:trademark@cybertomp.org)
 
----
-
 ## Authorized and “Fair Use”
 
 In addition to cases provided for by applicable law, **“fair use”** of the **CyberTOMP®** trademark and logo will be deemed to occur, and no prior authorization will be required, when the trademark and logo are used exclusively to refer to the official versions of the **CyberTOMP®** framework (including all their projects), in accordance with the documentation and guidance provided by its authors.
 
 Except in legally permitted **“fair use”** cases, the **CyberTOMP®** trademark and logo may only be used with **explicit, written authorization** from the trademark holder, in accordance with the usage guidelines below and the conditions established in the registered trademark license agreement.
 
-To request permission to use the **CyberTOMP®** trademark or logo, please send an email to:
-
-[trademark@cybertomp.org](mailto:trademark@cybertomp.org)
+To request permission to use the **CyberTOMP®** trademark or logo, please send an email to: [trademark@cybertomp.org](mailto:trademark@cybertomp.org)
 
 Explicitly, **“fair use” exclude** the use of the **CyberTOMP®** trademark or logo for the purpose of leveraging the corporate image of the official model to offer products or services based on a different version of **CyberTOMP®**, whether derived from the original or not, intended to associate such products or services with the official **CyberTOMP®** model and gain advantage from that association.
-
----
 
 ## Guidelines for Proper Use
 
@@ -42,8 +36,6 @@ Any use of the **CyberTOMP®** trademark and logo must be accompanied by a clear
 Both the logo and the textual representation of the trademark must include the **®** symbol, identifying its registered status.
 
 The textual and visual representation of the trademark must be treated as a proper name.  It must always be distinguished from surrounding text using appropriate capitalization, color, or font styles, and only the following authorized forms are permitted:
-
----
 
 ### Authorized Textual Representations of the CyberTOMP® Trademark
 
@@ -63,8 +55,6 @@ Or any of the previous forms, in a two-color style, using exactly the following 
 - <span style="color:#0E517F;">CYBER</span><span style="color:#565656;">TOMP®</span>.  
 - **<span style="color:#0E517F;">CYBER</span><span style="color:#565656;">TOMP®</span>**.  
 
----
-
 When using the textual representation of **CyberTOMP®**, only the authorized forms above may be used.  
 When using the **CyberTOMP®** logo, only the official graphic material approved by the trademark owner may be used.  
 It must not be modified, altered, or included in derivative compositions intended to create a new version of the logo.
@@ -80,14 +70,10 @@ To avoid any legal action by the trademark holder, users are requested to comply
 - Do not use the **CyberTOMP®** name or logo in a way that suggests endorsement, partnership, or official association with the official **CyberTOMP®** project without approval.
 - Do not distribute modified versions of official **CyberTOMP®** materials, documentation or software together with the CyberTOMP® trademark or logo in a way that could mislead users about their origin or authenticity.
 
----
-
 ## Practical Summary
 
 - You may **not** use the **CyberTOMP® name or logo** except to refer to the official version or under “fair use”, unless you have explicit, written authorization.
 - Derivative methodologies must be published under a **different name or trademark**.
 - Derivative tools or software must be published under a **different name or trademark**.
 - Any trademark misuse or infringement should be reported to **[trademark@cybertomp.org](mailto:trademark@cybertomp.org)**.
-
----
 
