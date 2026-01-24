@@ -8,11 +8,11 @@ cover-img:
 
 CyberTOMP® is an open framework **primarily designed to serve public sector entities**, addressing their unique challenges such as a high dependency on third-party service providers, limited agility in adopting changes, and the complexity of managing large supply chains. While its principles and practices are optimized for governmental and public service organizations, the framework remains adaptable and can also be applied in private sector contexts where similar governance challenges exist.
 
-## 1. **Purpose**
+## Purpose
 
 The purpose of this section is to define how the CyberTOMP® Framework evolves within an open and collaborative community. Rather than governing adoption, this governance model focuses on guiding the **continuous improvement of a framework tailored to public sector realities**, while remaining flexible for broader use. It ensures that changes are transparent, inclusive, and aligned with the framework’s core principles.
 
-## 2. **Governance Principles**
+## Governance Principles
 
 The evolution of CyberTOMP® is guided by a set of principles that reflect the spirit of openness, collaboration, usefulness and robustness:
 
@@ -24,7 +24,7 @@ The evolution of CyberTOMP® is guided by a set of principles that reflect the s
 *   **Broad Applicability**: Enhancements should provide value to a wide range of organizations and contexts, avoiding highly specific or niche improvements that benefit only a limited set of use cases.
 *   **Public Sector Priority**: The framework’s evolution should prioritize the needs of public sector entities. Private sector considerations are welcome only if they do not compromise essential public requirements.
 
-## 3. **Scope**
+## Scope
 
 This governance model applies to:
 
@@ -38,7 +38,7 @@ It does **not** govern:
 *   Specific technical deployments or proprietary/derivative adaptations.
 *   Actions required to grant third parties permissions to use the CyberTOMP® trademark and associated logo, as defined in the [Trademark](/trademark) section.
 
-## 4. **Governance Structure**
+## Governance Structure
 
 The governance model is built around collaborative roles:
 
@@ -48,7 +48,7 @@ The governance model is built around collaborative roles:
 
 ![Governance structure](/assets/img/governance-structure.jpg){: .mx-auto.d-block :}
 
-## 5. **Evolution Process**
+## Evolution Process
 
 The process for evolving CyberTOMP® is designed to be open and structured:
 
@@ -57,7 +57,7 @@ The process for evolving CyberTOMP® is designed to be open and structured:
 3.  **Approval and Voting**: Relevant decisions are made through a transparent vote by the members of the Steering Committee, taking into account compliance with the principles outlined in this governance model and, where applicable, the feedback provided by the broader community. Each decision will be communicated along with the rationale behind it. Minor changes may be approved directly if they meet the requirements established in this governance model.
 4.  **Publication**: Approved changes are documented and integrated into the official framework (model, guides, materials, software...), with version notes and rationale.
 
-## 6. **Community Participation**
+## Community Participation
 
 Participation is the cornerstone of this governance model. Members can engage through:
 
@@ -65,7 +65,7 @@ Participation is the cornerstone of this governance model. Members can engage th
 *   Periodic surveys and voting sessions whenever needed.
 *   Collaborative documentation and feedback loops.
 
-## 7. **Version Management**
+## Version Management
 
 To maintain clarity and stability:
 
@@ -85,18 +85,18 @@ To maintain clarity and stability:
 *   Backward compatibility is considered whenever feasible.
 *   All releases, along with their corresponding major changes and additions, will be publicly documented in the [Releases](/releases) section.
 
-## 8. **Conflict Resolution**
+## Conflict Resolution
 
 Disagreements are addressed through:
 
 *   Mediation by facilitators.
 *   Escalation to the Steering Committee if consensus cannot be reached.
 
-## 9. **Transparency and Accountability**
+## Transparency and Accountability
 
 Every decision or change will be documented in each repository using the standard tools provided by GitHub, allowing any community member to generate and review the corresponding changelog.
 
-## 10. **Licensing and Intellectual Property**
+## Licensing and Intellectual Property
 
 CyberTOMP® operates under open licenses that guarantee free access and contribution. Contributors are acknowledged for their work, fostering a culture of recognition and respect. However, to ensure proper management of contributions and to prevent future licensing issues with content, materials, or software, each contributor must accept a **Contribution License Agreement**, as described in the [Contributions](/contributions) section.The contributor’s acceptance of this CLA does not imply that the proposed contribution will be accepted, which will require the approvals and validations described in this governance model.
 
