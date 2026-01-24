@@ -29,7 +29,7 @@ Except in legally permitted **“fair use”** cases, the **CyberTOMP®** tradem
 
 To request permission to use the **CyberTOMP®** trademark or logo, please send an email to:
 
-> **cybertomp@manolodominguez.com**
+[trademark@cybertomp.org](mailto:trademark@cybertomp.org)
 
 Explicitly, **“fair use” exclude** the use of the **CyberTOMP®** trademark or logo for the purpose of leveraging the corporate image of the official model to offer products or services based on a different version of **CyberTOMP®**, whether derived from the original or not, intended to associate such products or services with the official **CyberTOMP®** model and gain advantage from that association.
 
