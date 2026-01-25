@@ -6,10 +6,6 @@ cover-img:
   - "/assets/img/section-cover.png"
 ---
 
-Aquí tienes una versión más estructurada, con **entradilla clara** y **subsecciones bien delimitadas**, manteniendo el rigor técnico y un tono coherente con CyberTOMP. He corregido además pequeñas ambigüedades y mejorado la legibilidad sin cambiar el significado.
-
----
-
 This section describes how versions of the **CyberTOMP®** framework and its associated projects are defined, aligned, and maintained over time. The goal is to ensure consistency, stability, and traceability across all components of the framework, while allowing controlled evolution and coordinated releases.
 
 ### Project Naming Convention
