@@ -8,13 +8,13 @@ cover-img:
 
 ## Community Communication and Collaboration
 
-CyberTOMP is structured as an **ecosystem of coordinated subprojects**, each addressing different aspects of cybersecurity management, evaluation, and supporting tools. While all CyberTOMP projects are **interrelated and aligned under a common framework**, their nature and objectives may differ, as do the profiles of potential contributors.
+CyberTOMP® is structured as an **ecosystem of coordinated subprojects**, each addressing different aspects of cybersecurity management, evaluation, and supporting tools. While all CyberTOMP® projects are **interrelated and aligned under a common framework**, their nature and objectives may differ, as do the profiles of potential contributors.
 
-For this reason, **each CyberTOMP subproject provides its own communication and collaboration mechanisms**, tailored to its specific focus (research, methodology, software development, tooling, or integration).
+For this reason, **each CyberTOMP® subproject provides its own communication and collaboration mechanisms**, tailored to its specific focus (research, methodology, software development, tooling, or integration).
 
 ### Communication and Collaboration Mechanisms
 
-Each CyberTOMP repository enables the following mechanisms:
+Each CyberTOMP® repository enables the following mechanisms:
 
 - **Discussions**  
   Used for open debate, questions, and the consolidation of shared knowledge.  
@@ -40,7 +40,7 @@ This workflow encourages a natural progression from discussion and consensus-bui
 
 ### Coordinated but Flexible Collaboration
 
-Although all CyberTOMP projects are part of a **cohesive and coordinated initiative**, collaboration needs may vary depending on the subproject. Some repositories are primarily oriented toward **research and methodology**, while others focus on **software development or tooling**.
+Although all CyberTOMP® projects are part of a **cohesive and coordinated initiative**, collaboration needs may vary depending on the subproject. Some repositories are primarily oriented toward **research and methodology**, while others focus on **software development or tooling**.
 
 This diversity reflects the fact that contributors may come from **different backgrounds**, including:
 - Researchers and academics.  
@@ -48,4 +48,4 @@ This diversity reflects the fact that contributors may come from **different bac
 - Software developers and engineers.  
 - Contributors interested in evaluation, validation, or documentation.  
 
-By providing consistent but flexible collaboration mechanisms across repositories, CyberTOMP aims to foster **inclusive, transparent, and effective community participation**, while respecting the specific requirements of each subproject.
+By providing consistent but flexible collaboration mechanisms across repositories, CyberTOMP® aims to foster **inclusive, transparent, and effective community participation**, while respecting the specific requirements of each subproject.
