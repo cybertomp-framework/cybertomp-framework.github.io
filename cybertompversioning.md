@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CyberTOMP versioning
+title: CyberTOMP® versioning
 subtitle: Controlling the evolution of the framework
 cover-img:
   - "/assets/img/section-cover.png"
