@@ -65,26 +65,6 @@ Participation is the cornerstone of this governance model. Members can engage th
 *   Periodic surveys and voting sessions whenever needed.
 *   Collaborative documentation and feedback loops.
 
-## Version Management
-
-To maintain clarity and stability:
-
-*   All projects belonging to the **CyberTOMP®** framework must be named using the format cybertomp-project_name. For example: cybertomp-framework-core, cybertomp-fleco, or cybertomp-fleco-studio
-*   The cybertomp-framework-core project represents the **CyberTOMP®** framework itself. It is the main project, and all other subprojects must align with it.
-*   The cybertomp-framework-core project will follow the pattern “-version”, and therefore will not include a revision number. Whenever major changes or enhancements are required that would break compatibility or alignment between the model and the rest of the projects, a new version must be released. For example, moving from **CyberTOMP®** version 1 to **CyberTOMP®** version 2 would require an evolution from cybertomp-framework-core-1 to cybertomp-framework-core-2. It is expected that the model itself will remain more stable than the rest of the projects.
-*   All other projects must be versioned following the pattern “-version.revision”, where version corresponds to the version number of the overall **CyberTOMP®** framework with which the project is aligned (the version of cybertomp-framework-core project). The revision is an incremental number representing subsequent bug fixes or enhancements that remain fully compatible with the same **CyberTOMP®** framework version (the version of cybertomp-framework-core project). For example, cybertomp-fleco-studio-1.4 and cybertomp-fleco-1.0 both correspond to version 1.0 of the **CyberTOMP® framework** (cybertomp-framework-core-1), whereas cybertomp-framework-core-2.5 would correspond to version 2.0 of **CyberTOMP®** (cybertomp-framework-core-2).
-*   The version of the cybertomp-framework-core project will determine the official version of the **CyberTOMP® model**. For example:
-    *   **CyberTOMP®** version 1 ⇔ cybertomp-framework-core-1.
-    *   **CyberTOMP®** version 2 ⇔ cybertomp-framework-core-3.
-    *   **CyberTOMP®** version 3 ⇔ cybertomp-framework-core-3.
-*   All projects belonging to the **CyberTOMP®** framework must be consistent with the model version they share, always, but especially when a new version of the overall framework is released. At that time, all subprojects will be tagged and released as project-version-0, indicating that they are part of a new **CyberTOMP®** framework version. Releasing a new version of cybertomp-framework-core will not be allowed unless all other projects are updated to this version simultaneously.
-*   Each project repository will contain at least *master*, *dev-next* and *dev-current* branches. The *master* branch will have minimal activity and will primarily represent the latest stable release of the project. The *dev-next* branch will include all new bug fixes and enhancements aimed at the next major version of the **CyberTOMP®** framework. The *dev-current* branch will include bug-fixing and minor changes aimed to release new revisions of the current **CyberTOMP®** framework, major version.
-*   Other development branches may be created if needed to evolve any feature of the project, although the must be temporary and merged/deleted once finished.
-*   After a new version of the **CyberTOMP®** framework is released, previous versions will no longer evolve. They will remain unchanged and freezed for reference, use, and download, but will not accept contributions or corrections.
-*   The Steering Committee will coordinate the joint release process across all subprojects, ensuring their update, stabilization, and collective readiness as a new version of the **CyberTOMP®** framework.
-*   Backward compatibility is considered whenever feasible.
-*   All releases, along with their corresponding major changes and additions, will be publicly documented in the [Releases](/releases) section.
-
 ## Conflict Resolution
 
 Disagreements are addressed through:
