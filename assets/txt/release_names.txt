@@ -1,0 +1,26 @@
+v1 – Aldebaran: Red giant in Taurus
+v2 – Betelgeuse: Red supergiant in Orion
+v3 – Capella: Bright binary in Auriga
+v4 – Deneb: Bright star in Cygnus
+v5 – Elnath: Beta star of Taurus
+v6 – Fomalhaut: Bright star in Piscis Austrinus
+v7 – Gacrux: Southern Cross star
+v8 – Hadar: Beta Centauri
+v9 – Izar: Double star in Boötes
+v10 – Jabbah: Star in Scorpius
+v11 – Kaus: Star in Sagittarius (Kaus Australis)
+v12 – Lesath: Star in Scorpius
+v13 – Mirfak: Bright star in Perseus
+v14 – Nunki: Bright star in Sagittarius
+v15 – Okul: Star in Cassiopeia
+v16 – Polaris: North Star in Ursa Minor
+v17 – Qian: Modern IAU name
+v18 – Rigel: Blue supergiant in Orion
+v19 – Sirius: Brightest star in the sky
+v20 – Tania: Star in Ursa Major
+v21 – Unukalhai: Alpha Serpentis
+v22 – Vega: Bright star in Lyra
+v23 – Wasat: Star in Gemini
+v24 – Xamidimura: Modern IAU name
+v25 – Yildun: Star in Ursa Minor
+v26 – Zaniah: Star in Virgo

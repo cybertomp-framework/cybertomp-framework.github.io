@@ -1,101 +1,216 @@
 ---
 layout: page
-title: CyberTOMP® versioning
+title: CyberTOMP® Versioning, Naming and Release Policy
 subtitle: Controlling the evolution of the framework
 cover-img:
   - "/assets/img/section-cover.png"
 ---
 
-This section describes how versions of the **CyberTOMP®** framework and its associated projects are defined, aligned, and maintained over time. The goal is to ensure consistency, stability, and traceability across all components of the framework, while allowing controlled evolution and coordinated releases.
+## 1. Ecosystem Overview
 
-### Project Naming Convention
+CyberTOMP® is developed as an **ecosystem of coordinated projects** hosted under the GitHub organization:
 
-To ensure clarity and uniformity:
+```
+https://github.com/cybertomp-framework
+```
 
-* All projects belonging to the **CyberTOMP®** framework must follow the naming format
-  **`cybertomp-project-name`**.
-* Examples include:
+The ecosystem includes:
 
-  * `cybertomp-framework-core`
-  * `cybertomp-fleco`
-  * `cybertomp-fleco-studio`
+- The **CyberTOMP® model and framework specification**.
+- **Official supporting software**.
+- **Official supporting tools**.
 
-### 2. Core Framework Project
+Each component is maintained in a **separate repository**, while the ecosystem evolves through **coordinated releases**.
 
-* The project **`cybertomp-framework-core`** represents the **CyberTOMP®** framework itself.
-* It is the **main reference project**, and all other subprojects must align with it.
-* The version of `cybertomp-framework-core` defines the **official version of the CyberTOMP® model**.
+The main project portal and documentation site is hosted via GitHub Pages:
 
-### 3. Versioning Scheme
+```
+https://cybertomp.org
+```
 
-#### 3.1 Framework Core Versioning
+This site acts as the **entry point for the entire CyberTOMP® ecosystem**, providing documentation, release information, and links to all repositories.
 
-* The `cybertomp-framework-core` project follows the pattern:
-  **`cybertomp-framework-core-version`**
-* No revision number is included.
-* A new version is released **only when major changes are introduced** that may break compatibility or require realignment across projects.
-* Example:
+## 2. Project Naming Convention
 
-  * `cybertomp-framework-core-1` → **CyberTOMP® version 1**
-  * `cybertomp-framework-core-2` → **CyberTOMP® version 2**
-* The core framework is expected to evolve **more slowly and conservatively** than other projects.
+All official repositories belonging to the CyberTOMP® ecosystem follow the naming pattern:
 
-#### 3.2 Subproject Versioning
+```
+cybertomp-<component>
+```
 
-* All other projects must follow the pattern:
-  **`project-version.revision`**
-* Where:
+Examples:
 
-  * **version** matches the corresponding `cybertomp-framework-core` version.
-  * **revision** is an incremental number for bug fixes or enhancements that remain fully compatible with the same framework version.
-* Examples:
+```
+cybertomp-model
+cybertomp-fleco
+cybertomp-fleco-studio
+cybertomp-tools
+```
 
-  * `cybertomp-fleco-studio-1.4`
-  * `cybertomp-fleco-1.0`
-    Both are aligned with **CyberTOMP® version 1** (`cybertomp-framework-core-1`).
+This naming convention ensures that CyberTOMP® components are clearly identifiable and consistently organized within the GitHub organization.
 
-### 4. Mapping Between Framework and Model Versions
+## 3. Ecosystem Versioning
 
-The version of `cybertomp-framework-core` determines the official **CyberTOMP® model version**:
+CyberTOMP® uses a **single version number for the entire ecosystem**.
 
-* **CyberTOMP® version 1** ⇔ `cybertomp-framework-core-1`
-* **CyberTOMP® version 2** ⇔ `cybertomp-framework-core-2`
-* **CyberTOMP® version 3** ⇔ `cybertomp-framework-core-3`
+A version represents a **coherent and fully aligned state** of:
 
-### 5. Coordinated Releases and Consistency
+- The CyberTOMP® model and framework specifications.
+- The official supporting software.  
+- The official supporting tools.  
 
-* All projects must remain **fully consistent** with the framework version they share.
-* When a new **CyberTOMP® framework version** is released:
+Examples:
 
-  * All subprojects must be updated, tagged, and released simultaneously.
-  * Subprojects will be released as `project-version.0`, indicating alignment with a new framework version.
-* A new version of `cybertomp-framework-core` **cannot be released** unless all other projects are updated accordingly.
+```
+CyberTOMP® v1
+CyberTOMP® v2
+CyberTOMP® v3
+```
 
-### 6. Branching Strategy
+All repositories participating in a given release share the **same version tag**.
 
-Each project repository must include at least the following branches:
+Example:
 
-* **`master`**
-  Represents the latest stable release. Minimal activity.
-* **`dev-current`**
-  Bug fixes and minor changes targeting new revisions of the current framework version.
-* **`dev-next`**
-  Developments intended for the next major version of the CyberTOMP® framework.
+```
+cybertomp-model        v2
+cybertomp-fleco        v2
+cybertomp-fleco-studio v2
+```
 
-Additional branches may be created when needed, but they must be **temporary** and merged or removed once their purpose is fulfilled.
+This approach guarantees compatibility across the ecosystem and simplifies version management.
 
-### 7. Version Freezing Policy
+## 4. Repository Version Tags
 
-* Once a new **CyberTOMP® framework version** is released:
+Repositories do not maintain independent major versions.
 
-  * Previous versions become **frozen**.
-  * They remain available for reference, use, and download.
-  * No further contributions, corrections, or evolutions are accepted.
+Instead, they publish **tags aligned with the ecosystem version**:
 
-### 8. Governance and Compatibility
+```
+v1
+v2
+v3
+```
 
-* The **Steering Committee** coordinates the joint release process across all projects, ensuring synchronization, stabilization, and readiness.
-* **Backward compatibility** is considered whenever feasible.
-* All releases and their corresponding changes are publicly documented in the
-  **[Releases](/releases)** section.
+A repository tagged with `v2` is part of the **CyberTOMP® v2 ecosystem release**.
 
+Minor fixes or internal improvements may occur between releases but remain associated with the same ecosystem version.
+
+## 5. Named Releases
+
+In addition to the numeric version, each CyberTOMP® release may include a **release name**.
+
+Release names provide a human-friendly way to refer to ecosystem versions and help distinguish major milestones in the project evolution. All release names in CyberTOMP®, if defined, will be star names in ascending alphabetical order.
+
+Example:
+
+```
+CyberTOMP® v1 – Aldebaran
+CyberTOMP® v2 – Betelgeuse
+CyberTOMP® v3 – ...
+```
+
+Release names are optional but recommended for major versions of the ecosystem.
+
+They are primarily used in:
+
+- documentation.  
+- presentations.  
+- publications.  
+- roadmap communication.  
+
+The numeric version remains the **canonical technical identifier**.
+
+## 6. Ecosystem Releases
+
+A new CyberTOMP® version is released when significant changes occur in the model, framework, or ecosystem that require coordinated updates across projects.
+
+An ecosystem release consists of:
+
+1. Creating a new version tag across participating repositories.  
+2. Publishing release notes. 
+3. Updating the project portal and documentation.  
+
+Example:
+
+```
+CyberTOMP® v2 – Betelgeuse
+```
+
+Repositories included in the release:
+
+```
+cybertomp-model
+cybertomp-fleco
+cybertomp-fleco-studio
+```
+
+Each repository publishes the corresponding tag:
+
+```
+v2
+```
+
+This guarantees alignment and compatibility across the ecosystem.
+
+## 7. Development Branching Model
+
+CyberTOMP® repositories follow a **three‑branch model** designed to support coordinated releases, maintain historical reproducibility, and minimize long‑term maintenance overhead.
+
+### Branches
+
+| Branch          | Purpose |
+|-----------------|---------|
+| `main`          | Latest stable version of the ecosystem. |
+| `next`          | Development of the upcoming ecosystem version. |
+| `release/vX`    | Frozen branch for ecosystem version **vX**, used only for critical bugfixes. |
+
+### Branch Workflow
+
+1. **Development occurs in `next`**  
+   All new features, improvements, and changes targeting the next major ecosystem version are committed to the `next` branch.
+
+2. **Publishing a new ecosystem release**  
+   When a new version *vX* is ready:
+   - `next` is merged into `main`.
+   - `main` is tagged as `vX`.
+   - A new branch `release/vX` is created from `main`.
+   
+3. **Role of `main`**  
+   After a release, `main` represents the **current stable version** and remains unchanged until the next release.
+
+4. **Role of `release/vX` branches**  
+   Each `release/vX` branch:
+   - Represents a **frozen snapshot** of version *vX*.
+   - Accepts **only critical bugfixes** for a period of **6 months** after its creation.
+   - Generates incremental maintenance tags (`vX.1`, `vX.2`, …) when fixes are applied.
+   - Remains permanently available for historical reference, even after the maintenance window closes.
+
+5. **No merges between release branches and main/next**  
+   - Fixes applied to `release/vX` **are not merged back** into `main` or `next`.
+   - If a fix is also relevant for future versions, it must be applied **manually** to `next`.
+
+This model ensures clean separation between past, present, and future development lines.
+
+## 8. Version Lifecycle
+
+Once a new ecosystem version is released:
+
+- The previous version becomes **frozen**.  
+- A `release/vX` branch is created to preserve it.  
+- Only **critical bugfixes** are accepted for the next **6 months**.  
+- After 6 months, the branch remains available but receives **no further changes**.  
+- Development continues exclusively in `next` toward the next ecosystem version.  
+
+This lifecycle ensures stability, reproducibility, and minimal maintenance burden while preserving the full historical evolution of the ecosystem.
+
+## 9. Governance
+
+The **CyberTOMP® Steering Committee** coordinates:
+
+- The evolution of the CyberTOMP® model.  
+- Ecosystem-wide releases.  
+- Synchronization of participating repositories.  
+- Publication of release documentation.  
+
+All official releases and their corresponding changes are documented on the CyberTOMP® project portal.
+```
