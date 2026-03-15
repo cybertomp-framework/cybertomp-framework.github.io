@@ -19,14 +19,13 @@ The ecosystem includes:
 - The **CyberTOMP® model and framework specification**.
 - **Official supporting software**.
 - **Official supporting tools**.
+- **The framework web site**.
 
 Each component is maintained in a **separate repository**, while the ecosystem evolves through **coordinated releases**.
 
 The main project portal and documentation site is hosted via GitHub Pages:
 
-```
 https://cybertomp.org
-```
 
 This site acts as the **entry point for the entire CyberTOMP® ecosystem**, providing documentation, release information, and links to all repositories.
 
@@ -34,17 +33,16 @@ This site acts as the **entry point for the entire CyberTOMP® ecosystem**, prov
 
 All official repositories belonging to the CyberTOMP® ecosystem follow the naming pattern:
 
-```
 cybertomp-<component>
-```
 
 Examples:
 
 ```
-cybertomp-model
-cybertomp-fleco
+cybertomp-framework-core
+cybertomp-fleco-library
 cybertomp-fleco-studio
 cybertomp-tools
+cybertomp-framework.github.io
 ```
 
 This naming convention ensures that CyberTOMP® components are clearly identifiable and consistently organized within the GitHub organization.
@@ -57,7 +55,8 @@ A version represents a **coherent and fully aligned state** of:
 
 - The CyberTOMP® model and framework specifications.
 - The official supporting software.  
-- The official supporting tools.  
+- The official supporting tools.
+- The framework web site.  
 
 Examples:
 
@@ -72,9 +71,11 @@ All repositories participating in a given release share the **same version tag**
 Example:
 
 ```
-cybertomp-model        v2
-cybertomp-fleco        v2
-cybertomp-fleco-studio v2
+cybertomp-framework-core      v2
+cybertomp-fleco-library       v2
+cybertomp-fleco-studio        v2
+cybertomp-tools               v2
+cybertomp-framework.github.io v2
 ```
 
 This approach guarantees compatibility across the ecosystem and simplifies version management.
@@ -113,22 +114,23 @@ Release names are optional but recommended for major versions of the ecosystem.
 
 They are primarily used in:
 
-- documentation.  
-- presentations.  
-- publications.  
-- roadmap communication.  
+- Documentation.  
+- Presentations.  
+- Publications.  
+- Roadmap communication.  
 
-The numeric version remains the **canonical technical identifier**.
+However, the numeric version remains the **canonical technical identifier**.
 
 ## 6. Ecosystem Releases
 
-A new CyberTOMP® version is released when significant changes occur in the model, framework, or ecosystem that require coordinated updates across projects.
+A new CyberTOMP® version (as a whole) is released when significant changes occur in the model that make backward compatibility unfeasible and this changes require coordinated updates across projects.
 
 An ecosystem release consists of:
 
 1. Creating a new version tag across participating repositories.  
 2. Publishing release notes. 
 3. Updating the project portal and documentation.  
+4. Update branches in all repositories.  
 
 Example:
 
@@ -139,9 +141,11 @@ CyberTOMP® v2 – Betelgeuse
 Repositories included in the release:
 
 ```
-cybertomp-model
-cybertomp-fleco
-cybertomp-fleco-studio
+cybertomp-framework-core  
+cybertomp-fleco-library  
+cybertomp-fleco-studio   
+cybertomp-tools  
+cybertomp-framework.github.io  
 ```
 
 Each repository publishes the corresponding tag:
@@ -160,9 +164,9 @@ CyberTOMP® repositories follow a **three‑branch model** designed to support c
 
 | Branch          | Purpose |
 |-----------------|---------|
-| `main`          | Latest stable version of the ecosystem. |
-| `next`          | Development of the upcoming ecosystem version. |
-| `release/vX`    | Frozen branch for ecosystem version **vX**, used only for critical bugfixes. |
+| `main`          | Latest stable version. |
+| `next`          | Development of the upcoming version. |
+| `release/vX`    | Frozen branch for version **vX**, used only for critical bugfixes. |
 
 ### Branch Workflow
 
