@@ -6,7 +6,7 @@ cover-img:
   - "/assets/img/section-cover.png"
 ---
 
-The following roadmap outlines the key milestones planned for the development of **CyberTOMP® Framework v2** during 2026. It includes the consolidation of the methodology, the establishment of the governance model, and the evolution of the software tools that form part of the framework.
+The following roadmap outlines the key milestones planned for the development of **CyberTOMP® v2 - Betelgeuse** during 2026. It includes the consolidation of the methodology, the establishment of the governance model, and the evolution of the software tools that form part of the framework.
 
 ### **1. Official Project Website**  
 **Progress:** 100%  
@@ -17,7 +17,7 @@ Creation and deployment of the official project portal centralizing documentatio
 Definition of the governance structure, roles, responsibilities, decision-making processes, and community participation channels.
 
 ### **3. Integrated Documentation (Markdown)**  
-**Progress:** 0%  
+**Progress:** 25%  
 Development of the first unified, navigable Markdown documentation describing the **CyberTOMP®** model.
 
 ### **4. Basic Supporting Tools (Excel sheets, forms, etc.)**  
@@ -25,7 +25,7 @@ Development of the first unified, navigable Markdown documentation describing th
 Creation of auxiliary materials to support the application of the processes defined in the model.
 
 ### **5. Separation of the FLECO Project**  
-**Progress:** 10%  
+**Progress:** 25%  
 Restructuring into two independent projects:  
 - **FLECO library (core library)**  
 - **FLECO Studio (interactive tool)**  
