@@ -19,7 +19,7 @@ The ecosystem includes:
 
 Each component is maintained in a **separate repository**, while the ecosystem evolves through **coordinated releases**.
 
-The main project portal and documentation site can be accessed via **[https://cybertomp.org](https://cybertomp.org){:target="_blank"}**:
+The main project portal and documentation site can be accessed via **[https://cybertomp.org](https://cybertomp.org)**:
 
 This site acts as the **entry point for the entire CyberTOMP® ecosystem**, providing documentation, release information, and links to all repositories.
 
