@@ -27,7 +27,9 @@ This site acts as the **entry point for the entire CyberTOMP® ecosystem**, prov
 
 All official repositories belonging to the CyberTOMP® ecosystem follow the naming pattern:
 
-<code>cybertomp-<component></code>
+```
+cybertomp-<component>
+```
 
 Examples:
 
