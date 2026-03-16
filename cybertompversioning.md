@@ -8,11 +8,7 @@ cover-img:
 
 ## 1. Ecosystem Overview
 
-CyberTOMP® is developed as an **ecosystem of coordinated projects** hosted under the GitHub organization:
-
-```
-https://github.com/cybertomp-framework
-```
+CyberTOMP® is developed as an **ecosystem of coordinated projects** hosted under the GitHub organization **[cybertomp-framework](https://github.com/cybertomp-framework){:target="_blank"}**
 
 The ecosystem includes:
 
