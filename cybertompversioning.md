@@ -23,9 +23,7 @@ The ecosystem includes:
 
 Each component is maintained in a **separate repository**, while the ecosystem evolves through **coordinated releases**.
 
-The main project portal and documentation site is hosted via GitHub Pages:
-
-https://cybertomp.org
+The main project portal and documentation site can be accessed via **[https://cybertomp.org](https://cybertomp.org){:target="_blank"}**:
 
 This site acts as the **entry point for the entire CyberTOMP® ecosystem**, providing documentation, release information, and links to all repositories.
 
@@ -164,7 +162,7 @@ CyberTOMP® repositories follow a **three‑branch model** designed to support c
 
 | Branch          | Purpose |
 |-----------------|---------|
-| `main`          | Latest stable version. |
+| `master`        | Latest stable version. |
 | `next`          | Development of the upcoming version. |
 | `release/vX`    | Frozen branch for version **vX**, used only for critical bugfixes. |
 
@@ -175,12 +173,12 @@ CyberTOMP® repositories follow a **three‑branch model** designed to support c
 
 2. **Publishing a new ecosystem release**  
    When a new version *vX* is ready:
-   - `next` is merged into `main`.
-   - `main` is tagged as `vX`.
-   - A new branch `release/vX` is created from `main`.
+   - `next` is merged into `master`.
+   - `master` is tagged as `vX`.
+   - A new branch `release/vX` is created from `master`.
    
-3. **Role of `main`**  
-   After a release, `main` represents the **current stable version** and remains unchanged until the next release.
+3. **Role of `master`**  
+   After a release, `master` represents the **current stable version** and remains unchanged until the next release.
 
 4. **Role of `release/vX` branches**  
    Each `release/vX` branch:
@@ -190,7 +188,7 @@ CyberTOMP® repositories follow a **three‑branch model** designed to support c
    - Remains permanently available for historical reference, even after the maintenance window closes.
 
 5. **No merges between release branches and main/next**  
-   - Fixes applied to `release/vX` **are not merged back** into `main` or `next`.
+   - Fixes applied to `release/vX` **are not merged back** into `master` or `next`.
    - If a fix is also relevant for future versions, it must be applied **manually** to `next`.
 
 This model ensures clean separation between past, present, and future development lines.
