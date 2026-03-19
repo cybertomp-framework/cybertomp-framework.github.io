@@ -14,5 +14,5 @@ This is the first and original version of CyberTOMP® made publicly available as
 
 - **[cybertomp-framework-core (v1)](https://github.com/cybertomp-framework/cybertomp-framework-core/tree/release/v1){:target="_blank"}**
 - **[cybertomp-fleco-library (v1)](https://github.com/cybertomp-framework/cybertomp-fleco-library/tree/release/v1){:target="_blank"}**
-
+- **[cybertomp-fleco-studio (v1)](https://github.com/cybertomp-framework/cybertomp-fleco-studio/tree/release/v1){:target="_blank"}**
 
