@@ -34,6 +34,7 @@ navbar-links:
     - Documentation: "documentation"
     - Roadmap: "roadmap"
     - Projects: "projects"
+    - Current release: "currentrelease"
     
   Community:
     - Contributions: "contributions"
@@ -42,7 +43,7 @@ navbar-links:
     
   Updates:
     - News: "/news"
-    - Releases: "releases"
+    - Releases history: "releaseshistory"
 
 ################
 # --- Logo --- #

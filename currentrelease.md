@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Releases
-subtitle: A holistic perspective on cybersecurity and governance
+title: Current Release
+subtitle: Current release overview and resources
 cover-img:
   - "/assets/img/section-cover.png"
 ---
