@@ -9,11 +9,11 @@ cover-img:
 The following roadmap outlines the key milestones planned for the development of **CyberTOMP® v2 - Betelgeuse** during 2026. It includes the consolidation of the methodology, the establishment of the governance model, and the evolution of the software tools that form part of the framework.
 
 ### **1. Official Project Website**  
-**Progress:** 100%  
+**Progress:** 100% - Completed!  
 Creation and deployment of the official project portal centralizing documentation, tools, downloads, contribution processes, and release information.
 
 ### **2. Governance Model and Initial Roles**  
-**Progress:** 100%  
+**Progress:** 100% - Completed!  
 Definition of the governance structure, roles, responsibilities, decision-making processes, and community participation channels.
 
 ### **3. Integrated Documentation (Markdown)**  
@@ -25,7 +25,7 @@ Development of the first unified, navigable Markdown documentation describing th
 Creation of auxiliary materials to support the application of the processes defined in the model.
 
 ### **5. Separation of the FLECO Project**  
-**Progress:** 25%  
+**Progress:** 100% - Completed!  
 Restructuring into two independent projects:  
 - **FLECO library (core library)**  
 - **FLECO Studio (interactive tool)**  
@@ -36,7 +36,7 @@ Both aligned with the governance model.
 Markdown documentation for each project: methodology, guides, software tools, and utilities.
 
 ### **7. Publication of the FLECO Library in Maven Central**  
-**Progress:** Pending  
+**Progress:** 100% - Completed!  
 Release of the first stable version of the FLECO library to Maven Central as a standard dependency.
 
 
