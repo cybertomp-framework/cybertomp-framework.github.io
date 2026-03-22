@@ -24,19 +24,19 @@ Development of the first unified, navigable Markdown documentation describing th
 **Progress:** 0%  
 Creation of auxiliary materials to support the application of the processes defined in the model.
 
-### **5. Separation of the FLECO Project**  
+### **5. Separation of the CyberTOMP® FLECO Project**  
 **Progress:** 100% - Completed!  
 Restructuring into two independent projects:  
-- **FLECO library (core library)**  
-- **FLECO Studio (interactive tool)**  
+- **CyberTOMP® FLECO library (core library)**  
+- **CyberTOMP® FLECO Studio (interactive tool)**  
 Both aligned with the governance model.
 
 ### **6. Project-specific Documentation (Markdown)**  
 **Progress:** 25%  
 Markdown documentation for each project: methodology, guides, software tools, and utilities.
 
-### **7. Publication of the FLECO Library in Maven Central**  
+### **7. Publication of the CyberTOMP® FLECO Library in Maven Central**  
 **Progress:** 100% - Completed!  
-Release of the first stable version of the FLECO library to Maven Central as a standard dependency.
+Release of the first stable version of the CyberTOMP® FLECO library to Maven Central as a standard dependency.
 
 
