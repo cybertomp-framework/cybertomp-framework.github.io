@@ -13,9 +13,8 @@ CyberTOMP® is developed as an **ecosystem of coordinated projects** hosted unde
 The ecosystem includes:
 
 - The **CyberTOMP® model and framework specification**.
-- **Official supporting software**.
-- **Official supporting tools**.
-- **The framework web site**.
+- The **Official supporting software**.
+- The **project web site**.
 
 Each component is maintained in a **separate repository**, while the ecosystem evolves through **coordinated releases**.
 
@@ -37,7 +36,6 @@ Examples:
 cybertomp-framework-core
 cybertomp-fleco-library
 cybertomp-fleco-studio
-cybertomp-tools
 cybertomp-framework.github.io
 ```
 
@@ -51,7 +49,6 @@ A version represents a **coherent and fully aligned state** of:
 
 - The CyberTOMP® model and framework specifications.
 - The official supporting software.  
-- The official supporting tools.
 - The framework web site.  
 
 Examples:
@@ -70,7 +67,6 @@ Example:
 cybertomp-framework-core      v2
 cybertomp-fleco-library       v2
 cybertomp-fleco-studio        v2
-cybertomp-tools               v2
 cybertomp-framework.github.io v2
 ```
 
@@ -140,7 +136,6 @@ Repositories included in the release:
 cybertomp-framework-core  
 cybertomp-fleco-library  
 cybertomp-fleco-studio   
-cybertomp-tools  
 cybertomp-framework.github.io  
 ```
 

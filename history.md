@@ -6,7 +6,7 @@ cover-img:
   - "/assets/img/section-cover.png"
 ---
 
-The seed of the **CyberTOMP® framework** emerged in 2021-2022 within the research work conducted by **[Dr. Manuel Domínguez-Dorado](https://manolodominguez.com){:target="_blank"}**, supervised by **Dr. Francisco J. Rodríguez Pérez** and **Dr. David Cortés-Polo**, which culminated in his doctoral thesis *“Holistic Management and Evaluation of Cybersecurity in the Public Sector”*, developed under the **GÍTACA Research Group** at the **University of Extremadura**.  
+The seed of the **CyberTOMP® Framework** emerged in 2021-2022 within the research work conducted by **[Dr. Manuel Domínguez-Dorado](https://manolodominguez.com){:target="_blank"}**, supervised by **Dr. Francisco J. Rodríguez Pérez** and **Dr. David Cortés-Polo**, which culminated in his doctoral thesis *“Holistic Management and Evaluation of Cybersecurity in the Public Sector”*, developed under the **GÍTACA Research Group** at the **University of Extremadura**.  
 
 It was in the context of this research that the first version of the theoretical model was published:  
 
@@ -16,6 +16,6 @@ Subsequent investigations (see the [Research](/research) section), leveraging fe
 
 This process gradually transformed the model, initially conceived as a more theoretical and academic construct, into a **practical and action-oriented tool** aimed at supporting **real holistic cybersecurity management**.  
 
-Today, the **CyberTOMP® framework**, along with its associated tools, continues to evolve within an **open community** under the stewardship of the **GÍTACA research group**. Its development is guided by both **practical applicability** and a **theoretical foundation rooted in formal research**, providing organizations that adopt it with the assurance that the underlying body of knowledge is fully aligned with their operational needs.
+Today, the **CyberTOMP® Framework**, along with its associated tools, continues to evolve within an **open community** under the stewardship of the **GÍTACA research group**. Its development is guided by both **practical applicability** and a **theoretical foundation rooted in formal research**, providing organizations that adopt it with the assurance that the underlying body of knowledge is fully aligned with their operational needs.
 
 
