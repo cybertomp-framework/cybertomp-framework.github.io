@@ -26,7 +26,7 @@ Creation of auxiliary materials to support the application of the processes defi
 
 ### **5. Separation of the CyberTOMP® FLECO Project**  
 **Progress:** 100% - Completed!  
-Restructuring into two independent projects:  
+Restructuring into two independent projects: 
 - **CyberTOMP® FLECO library (core library)**  
 - **CyberTOMP® FLECO Studio (interactive tool)**  
 Both aligned with the governance model.
