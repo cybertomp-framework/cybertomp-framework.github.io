@@ -8,6 +8,10 @@ cover-img:
 
 This section showcases the research and publications developed within the CyberTOMP® framework. Our work focuses on advancing cybersecurity governance through innovative methodologies, collaborative studies, and practical insights that strengthen standards and controls. Explore how these contributions shape a holistic approach to security and resilience.
 
+## PhD theses
+
+1. M. Domínguez-Dorado, “[Gestión y evaluación holística de la ciberseguridad en el Sector Público](https://aplicaciones.ciencia.gob.es/teseo/#/tesis/O853273/detalle)”. PhD thesis awarded the highest distinction, *Sobresaliente Cum Laude*. PhD Programme in Computer Technologies. University of Extremadura. Cáceres. Oct. 2024. Available: [https://aplicaciones.ciencia.gob.es/teseo/#/tesis/O853273/detalle](https://aplicaciones.ciencia.gob.es/teseo/#/tesis/O853273/detalle).
+
 ## Journal Articles
 
 1. M. Domínguez-Dorado, D. Cortés-Polo, F. J. Rodríguez-Pérez, J. Galeano-Brajones, J. Calle-Cancho, "[Version 2.0 — FLECO, enhancements for cyber situational awareness training and research](https://doi.org/10.1016/j.simpa.2025.100800)", Software Impacts, Volume 26,2025, 100800.
